@@ -1,0 +1,43 @@
+[2024-10-22T06:04:00.592+0000] {processor.py:186} INFO - Started process (PID=2986) to work on /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:00.593+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/simple_dag_local.py for tasks to queue
+[2024-10-22T06:04:00.599+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:00.597+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:00.686+0000] {processor.py:925} INFO - DAG(s) 'thangnc_dag01a' retrieved from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:01.545+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.543+0000] {override.py:1900} INFO - Created Permission View: can edit on DAG:thangnc_dag01a
+[2024-10-22T06:04:01.559+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.559+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG:thangnc_dag01a
+[2024-10-22T06:04:01.565+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.565+0000] {override.py:1900} INFO - Created Permission View: can read on DAG:thangnc_dag01a
+[2024-10-22T06:04:01.572+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.572+0000] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:thangnc_dag01a
+[2024-10-22T06:04:01.577+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.577+0000] {override.py:1900} INFO - Created Permission View: can create on DAG Run:thangnc_dag01a
+[2024-10-22T06:04:01.584+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.584+0000] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:thangnc_dag01a
+[2024-10-22T06:04:01.592+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.591+0000] {override.py:1900} INFO - Created Permission View: can read on DAG Run:thangnc_dag01a
+[2024-10-22T06:04:01.594+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.593+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T06:04:01.612+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.612+0000] {dag.py:3262} INFO - Creating ORM DAG for thangnc_dag01a
+[2024-10-22T06:04:01.622+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:01.622+0000] {dag.py:4180} INFO - Setting next_dagrun for thangnc_dag01a to 2021-06-23 00:00:00+00:00, run_after=2021-06-23 00:00:00+00:00
+[2024-10-22T06:04:01.641+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/simple_dag_local.py took 1.089 seconds
+[2024-10-22T06:04:08.755+0000] {processor.py:186} INFO - Started process (PID=2994) to work on /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:08.756+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/simple_dag_local.py for tasks to queue
+[2024-10-22T06:04:08.759+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:08.759+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:08.778+0000] {processor.py:925} INFO - DAG(s) 'thangnc_dag01a' retrieved from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:08.790+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:08.790+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T06:04:08.820+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:08.820+0000] {dag.py:4180} INFO - Setting next_dagrun for thangnc_dag01a to 2021-06-23 00:00:00+00:00, run_after=2021-06-23 00:00:00+00:00
+[2024-10-22T06:04:08.846+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/simple_dag_local.py took 0.097 seconds
+[2024-10-22T06:04:22.931+0000] {processor.py:186} INFO - Started process (PID=2995) to work on /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:22.932+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/simple_dag_local.py for tasks to queue
+[2024-10-22T06:04:22.934+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:22.934+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:22.950+0000] {processor.py:925} INFO - DAG(s) 'thangnc_dag01a' retrieved from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:22.961+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:22.961+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T06:04:22.982+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:22.982+0000] {dag.py:4180} INFO - Setting next_dagrun for thangnc_dag01a to 2024-10-22 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-22T06:04:23.016+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/simple_dag_local.py took 0.090 seconds
+[2024-10-22T06:04:53.386+0000] {processor.py:186} INFO - Started process (PID=3003) to work on /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:53.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/simple_dag_local.py for tasks to queue
+[2024-10-22T06:04:53.390+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:53.389+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:53.419+0000] {processor.py:925} INFO - DAG(s) 'thangnc_dag01a' retrieved from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:04:53.638+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:53.638+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T06:04:53.658+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:04:53.658+0000] {dag.py:4180} INFO - Setting next_dagrun for thangnc_dag01a to 2024-10-22 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-22T06:04:53.679+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/simple_dag_local.py took 0.300 seconds
+[2024-10-22T06:05:23.785+0000] {processor.py:186} INFO - Started process (PID=3011) to work on /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:05:23.786+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/simple_dag_local.py for tasks to queue
+[2024-10-22T06:05:23.787+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:05:23.787+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:05:23.807+0000] {processor.py:925} INFO - DAG(s) 'thangnc_dag01a' retrieved from /opt/airflow/dags/simple_dag_local.py
+[2024-10-22T06:05:23.838+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:05:23.838+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-22T06:05:23.862+0000] {logging_mixin.py:190} INFO - [2024-10-22T06:05:23.862+0000] {dag.py:4180} INFO - Setting next_dagrun for thangnc_dag01a to 2024-10-22 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-22T06:05:23.883+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/simple_dag_local.py took 0.105 seconds
