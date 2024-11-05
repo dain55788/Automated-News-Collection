@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 # DATA TRANSFORMATION PHASE
 # check if the articles are removed or not
 def is_valid_article(article):
-    return article.get('title') != '[Removed]' and article.get('urlToImage') is not None
+    return (article.get('title') != '[Removed]' and article['source']['name'] != "Yahoo Entertainment")
 
 categories_list = ['technology', 'sports', 'entertainment', 'politic', 'business', 'health']
 news_file_path = f'Automated-News-Collection/news_data/news.json'
@@ -45,7 +45,6 @@ def transform(file_path):
         article["content"] = article_content if article_content else "Content could not be fetched."
         article_id += 1
         
-
     data['articles'] = filtered_articles
 
 

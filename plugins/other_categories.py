@@ -28,5 +28,3 @@ def get_other_news_categories():
             print(f"News articles saved to {categories_list[i]} file and has been transformed.")
         else:
             print(f"Failed to fetch news: {response.status_code}")
-
-get_other_news_categories()

@@ -1,240 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "name": "Reuters",
+                "name": "Google News",
                 "article_id": 1
             },
-            "author": "Tom Balmforth, Alexander Tanas",
-            "title": "Moldova's pro-Western Sandu claims election win after meddling allegations - Reuters",
-            "description": "The victory for the 52-year-old ex-World Bank adviser is an endorsement of the resolutely pro-Western course she has tacked.",
-            "url": "https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/5SFUNHTSPZJ7RNCGZTGMFLXXGQ.jpg?auth=10554d0481369ce21952683b02376cae27c84a7d34d5c87554ef4bf1152406ce&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-11-03T23:57:46Z",
-            "content": null
+            "author": "NDTV",
+            "title": "Iowa Shocker: Kamala Harris Takes Lead Where Donald Trump Won Twice Before - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWNoNkI5Q3IxT19FTUVLam15a2FPTzl0dkR1WUhIUDhRMmV2UFB4R1dybnFmY3RUMDRCNk1lamhGR2hwcDVRcUkyZUxEcFRjUVFzWkhkcVJNNjdpeGhLWFNaV1NWZmNEVktGQ2FEaXNqbTQxelhMZTNBXzRIVkh6NWNvVF9LdjVhb29ZbWU4anhFRVpkeFhWZU1yT2o3T0x0WHNNcURKYTZVNUg4OVlQT0s1Zw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T08:03:33Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Reuters",
+                "name": "Google News",
                 "article_id": 2
             },
-            "author": "Rami Amichay, Maayan Lubell",
-            "title": "Israeli authorities probe suspected Gaza intelligence leak by Netanyahu aide - Reuters",
-            "description": "A court ruling partially lifting a gag order has provided a glimpse of the case which the court said compromised security sources and may have harmed Israel's war effort.",
-            "url": "https://www.reuters.com/world/middle-east/israeli-authorities-probe-suspected-gaza-intelligence-leak-by-netanyahu-aide-2024-11-03/",
-            "urlToImage": "https://www.reuters.com/resizer/v2/FPQEI44JKJN5DOQNFGHJIMG5XY.jpg?auth=d4c368a4649b8f73bb03a226d694cbcc56add609c5ec3f7c57b35f33e3615952&height=1005&width=1920&quality=80&smart=true",
-            "publishedAt": "2024-11-03T23:05:52Z",
-            "content": null
+            "author": "The Associated Press",
+            "title": "Quincy Jones, music titan who worked with everyone from Frank Sinatra to Michael Jackson, dies at 91 - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVpzMkRDRlQ2X0pyN3BXdXRtTVJMUTBmSERNQ2NwdXBmcG1lb1dTbzZpelUwMC04cFNMeDZkczdqZmRVaGFnS0dyYy1TN3RFVmhGelNxNVBWbEljeXhuVzRNcXFVTkJLQndlbUNLZVZ0bGNQRWU2WWpPUlVDeXRqZ2NmRQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T07:59:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Motorsport.com",
+                "name": "Google News",
                 "article_id": 3
             },
-            "author": "Nick DeGroot",
-            "title": "Blaney wins his way into the Championship 4 with shadow over race finish - Motorsport.com",
-            "description": "Chaos and drama once again defined the NASCAR Cup Series championship cutoff race at Martinsville.",
-            "url": "https://www.motorsport.com/nascar-cup/news/nascar-cup-blaney-wins-martinsville-championship-4/10670424/",
-            "urlToImage": "https://cdn-9.motorsport.com/images/amp/2Gz8NwE0/s6/ryan-blaney-team-penske-discou-2.jpg",
-            "publishedAt": "2024-11-03T22:59:04Z",
-            "content": "In the closing laps of the race, it became a three-way fight for the win between Kyle Larson, Chase Elliott, and Ryan Blaney.\r\nLarson was in control, but Elliott and Blaney had 30-lap fresher tires i [+2021 chars]"
+            "author": "Star Tribune",
+            "title": "Sam Darnold and the Vikings right the ship in the second half to beat the Colts 21-13 - Star Tribune",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGU3cURQTVQ0YldHT0JvQUdTLWJlbGhBbmJBNGpNLWM1c0hwRHRyMEVEWW5IWXNRWm5JVlVMUDE3UDZKQ3M0STRFWlNBeEJuT1ZrTlBaN0NIblVkVXVKMngxYlRJTUN0Rzc0ZWZIZXJVVWlwTjU1T2haZ0ZpdzBfcGlGMFZib1BrRERSYnprZ1lQbWp4UmNtdEU3enlxT0Y5eTd4aGpwTThEUlZjbkYyLVdUeDA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T07:29:13Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "CNN",
+                "name": "Google News",
                 "article_id": 4
             },
-            "author": "Nadia Kounang, Carma Hassan, Deidre McPhillips",
-            "title": "RFK Jr. says fluoride is an industrial waste linked to cancer, diseases and disorders. Heres what the science says - CNN",
-            "description": "Robert F. Kennedy Jr.  waded into another scientific debate on Saturday by saying Donald Trumps administration would advise that fluoride be removed from the countrys water supplies if the former president wins Tuesdays presidential election.",
-            "url": "https://www.cnn.com/2024/11/03/health/rfk-jr-fluoride-science/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/2024-08-23t193953z-977736823-rc2ul9a8rv4w-rtrmadp-3-usa-election-kennedy.JPG?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2024-11-03T22:47:00Z",
-            "content": "Robert F. Kennedy Jr. waded into another scientific debate on Saturday by saying Donald Trumps administration would advise that fluoride be removed from the countrys water supplies if the former pres [+5880 chars]"
+            "author": "CNN",
+            "title": "More severe weather expected Monday as Oklahoma surveys damage from tornado-spawning storms that injured 11 - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDdPc0o0LTBYdG1tV1RSNkI2emlacDBFRUFNUWpwbUJtMm9tUk1iX2NXbFpYcm5hTTM2dDRmcXo2MXozOW1FdjJoQ3NSZGtjejJDSW5CTWFST3hONGtLbVZ6V1hmb3dZOEgxR25mZ3lqRGhpbFVuQzJNQVY4M1dNS1gxNTUyRlRiWDZXbFZVcGo0WEUwNlRpb0NoQUp1V0RoX1hKTjA3MHV3QdIBoAFBVV95cUxQYkppbndpcjNCZFVFbGJoQ0xSNUw5S24zVlh6STdSbjNlc3BfVXlqRURjMmxqNlF1Ujg4WmlNaDVnVGtGNmFlX09LWWtvUzJ0ams2M1RZbDhYd1FVb0RVYkpXVXFOSU5RZGdzM25VLTRmYzVVSnFxblBlRElrNzB2ak5fQml5RWw4YUhvTDhMY0FRcEl3SmJweUhzV0VzRTNj?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T07:23:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "USA Today",
+                "name": "Google News",
                 "article_id": 5
             },
-            "author": "Jorge L. Ortiz",
-            "title": "Hurricane season still swirling: Rafael could threaten US later this week - USA TODAY",
-            "description": "Gulf Coast residents are urged to be aware of a system expected to become a tropical storm and possibly a hurricane.",
-            "url": "https://www.usatoday.com/story/news/nation/2024/11/03/caribbean-storm-could-threaten-gulf-coast/76034701007/",
-            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/11/03/USAT/76036782007-new.jpg?crop=1886,1061,x0,y0&width=1886&height=1061&format=pjpg&auto=webp",
-            "publishedAt": "2024-11-03T22:28:43Z",
-            "content": "A November surprise?\r\nAs Americans focus their attention on Tuesdays election, weather experts are keeping a close eye on a low-pressure system in the western Caribbean that figures to impact the U.S [+3129 chars]"
+            "author": "CNN",
+            "title": "RFK Jr. says fluoride is an industrial waste linked to cancer, diseases and disorders. Heres what the science says - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9tbXR1M0pUNGlvTHhQRWp1U3YzZmtTcFUzYXlJcFBXQWRyRFAtV0IwMnZhSjc1TndwSEtWcWZwa3NUQ2lWVHRKUnpBS0tscVpFckd2dkk2ZEV1TUdXRkV2eTdqN3JaQm80dGNxRXFDWC1HSUhaM0RBSW9fSEbSAXNBVV95cUxNbF9wQVB2cDNXVDNJQnR1eEIxODVnR3EtdzViR0ZtZUxTTUVyalNzM3l3bVNGcTVDX09GRW9lVFk4RkltdGRrUmEzVUJCZE00X1FpY0VuUE1pOUNwU2R2WE51QVk2ajFSN216WFhTNDZOcmxB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T07:04:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "NBCSports.com",
+                "name": "Google News",
                 "article_id": 6
             },
-            "author": "Michael David Smith",
-            "title": "Dan Campbell does it again, fourth down decision gives Lions lead over Packers - NBC Sports",
-            "description": "The Lions and Packers both reached fourth-and-5 on their opening drives.",
-            "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dan-campbell-does-it-again-fourth-down-decision-gives-lions-lead-over-packers",
-            "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1b9645b/2147483647/strip/true/crop/4811x2706+0+251/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F62%2Fc0%2Fd5c8f1b1457a82d3fd2c19074877%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2182718679",
-            "publishedAt": "2024-11-03T21:59:43Z",
-            "content": "The Lions and Packers both reached fourth-and-5 on their opening drives. Dan Campbell kept his offense on the field. Matt LaFleur did not.\r\nThe result? Lions 7, Packers 3.\r\nAfter the Packers had a lo [+767 chars]"
+            "author": "Reuters",
+            "title": "Moldova's pro-Western Sandu claims election win after meddling allegations - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JTZ3NHUlI4QWJiREZ0NmJ2c1BPZXRxaE9rc3U5NTY4M3FBblF4OWpGNC1TcFliaFhmbGQ5UTd5SGxxSlFRNWJSaXkyNkowUDNydGhNN0RleVdyQkpLbzBiUTR4MktfNnB3eHByR2dCem5lZHMxNjRCM244bjBkZ1dTeks1UDdTY3lSZm1rOVlwSHRNN21sMjVyQ0ZBbGpVSTR0Z0tHNjJ1QVJibF9EenVmeFJtaHdlNzYyaw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T06:29:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "CBS News",
+                "name": "Google News",
                 "article_id": 7
             },
-            "author": "Lucia Suarez Sang",
-            "title": "\"Dawson's Creek\" alum James Van Der Beek announces cancer diagnosis - CBS News",
-            "description": "The \"Dawson's Creek\" alum shared the news on Sunday and said that despite the diagnosis, there is \"reason for optimism, and I'm feeling good.\"",
-            "url": "https://www.cbsnews.com/news/james-van-der-beek-cancer-diagnosis/",
-            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/03/0450e6c8-4a4a-4bed-b3bc-46f8649f5bf8/thumbnail/1200x630/b8504abf58c55d453832a95b9c26a92c/ap22363684010032.jpg?v=379420b9063a2aadbcd559df18e2d1ae",
-            "publishedAt": "2024-11-03T21:51:20Z",
-            "content": "James Van Der Beek revealed he has been diagnosed with colorectal cancer.\r\nThe \"Dawson's Creek\" alum shared the news on Sunday, telling People that despite the diagnosis, there is \"reason for optimis [+1419 chars]"
+            "author": "The New York Times",
+            "title": "Where Theres Joy in a Terror Bird - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUVp6c1dGbkFmRWZtMVlSMm1ZaE9CNl9xSk45anFZUmtSUlp2N2FMaV9SeFBXWDRJWEVwRGF2LWo1V3ZXUGJpM2xBXy1yMkYwWnd4LWxMUUFuNkZsdzlweTVoM1NLZGNadVAwbl9ueEliU0RBbm9IemZlMmU5S3FsYzBpWQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T06:00:30Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "WESH Orlando",
+                "name": "Google News",
                 "article_id": 8
             },
-            "author": "Allison Petro",
-            "title": "SpaceX launching 23 Starlink satellites on Falcon 9 rocket from Cape Canaveral - WESH 2 Orlando",
-            "description": "SpaceX scrubbed its Starlink satellite mission from the Cape Canaveral Space Force Station on Sunday evening.",
-            "url": "https://www.wesh.com/article/spacex-falcon-9-rocket-from-cape-canaveral/62796474",
-            "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/starlink-mission-662836eb0a310.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
-            "publishedAt": "2024-11-03T21:34:00Z",
-            "content": "CAPE CANAVERAL, Fla. SpaceX scrubbed its Starlink satellite mission from the Cape Canaveral Space Force Station on Sunday evening.\r\nThe Falcon 9 rocket was scheduled to launch at 4:57 p.m., with bac [+786 chars]"
+            "author": "ABC News",
+            "title": "Trump campaign defends his remarks about violence toward journalists - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNanBiS0xKUk9LYmhhcXJmdkZWM0pZTTRXVm4yQlpmVVZjNUw4QjQyLV8xV1J1enRZdFFMMEhNWHNXYzcxY19uU19SczBxT0I4ZHJLMkdwRmY1UTEtLTZVdGVBOFpHSURzR2VEQ0diVFJKS3h2UU5IMDJTNWN4ZGVZQnRpQVMtYlBzNHM5NG0zdE9mQVVESjI1dkE5WjBsb1E5SXJnV9IBqgFBVV95cUxPSlZ6OUhMV0I2WmZuaDM4bFRoc2dMUUZyTERDazJYeTlNQ0lNQUNVdHVIeDlTbF9ST3h5RGk2Nl81VzE0Z1pqaUpGSTRNTHR3YWctaGFHWXlqQ3NzQVhMTE5KQnE3ekhQcGZ0WDVDcXM4TTk5MUlXU2djeHdRRHNwaGRjVk53dE9oS3ZRdzRFMHdKYnZxQWZSWEFRb1Y2clc0cDFIUk1ENGNxUQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:53:47Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "NBC News",
+                "name": "Google News",
                 "article_id": 9
             },
-            "author": "Alexandra Marquez, Jake Traylor, Jillian Frankel",
-            "title": "Trump talks shooting at press, ramps up election fraud claims at Pa. rally - NBC News",
-            "description": "Former President Donald Trump on Sunday leaned heavily into claims of election fraud and appeared to call for violence against members of the press at his rally in Lititz, Pennsylvania, continuing an almost decadelong streak of attacking the media.",
-            "url": "https://www.nbcnews.com/politics/donald-trump/trump-wouldnt-mind-if-someone-shot-media-pa-rally-rcna178573",
-            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-11/241103-donald-trump-vl-1217p-2d4a9d.jpg",
-            "publishedAt": "2024-11-03T21:06:25Z",
-            "content": "Former President Donald Trump on Sundayleaned heavily into claims of election fraud andappeared to call for violence against members of the press at his rally in Lititz, Pennsylvania, continuing an a [+4978 chars]"
+            "author": "CNN",
+            "title": "Angry crowds boo and throw eggs at Spanish king as he visits flood-hit Valencia - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcHZobUg5eHBtaTlQb1B0YW1Kd3dJaWNycldFNERIQi1TUGlBaUJDMGhNbGdSeVN3QUthaEtUSkhzSzhVa203U2prWnJvSUhfenJaVU02WTVlUlQtN1VlRC1EMzhZU3NHS0lLME1HOUpEam5ySkVFb0Y0dTV1bmY2djgtQS1Mb1ZuaVpsR2d0ZEcxZ9IBiAFBVV95cUxPU19BSEpoUFJjV3hXTUJsVE9LWGdEQVlEMFJEb2s3dFZEbTVYTG55MEVKWnBtbXNhTHhuRkExUTJjQXdRY3lZaUoyYXRnT2s4OXUtbGRaM2RZS1RBTm8xRURuNk43QlB2NmRtNlFvODhrdkVTV2plZEZzTC14WGY0MmgwMlcyeXow?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:49:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Page Six",
+                "name": "Google News",
                 "article_id": 10
             },
-            "author": "Sabrina Picou",
-            "title": "Hugh Jackman jokingly agrees pal Ryan Reynolds isnt funny after Martha Stewarts remarks: Finally someone says it - Page Six",
-            "description": "The Wolverine actor took to social media to agree with the cookbook authors statement on the Deadpool star lacking a good sense of humor.",
-            "url": "https://pagesix.com/2024/11/03/celebrity-news/hugh-jackman-jokingly-agrees-pal-ryan-reynolds-isnt-funny-after-martha-stewarts-remarks/",
-            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/11/92980393.jpg?quality=75&strip=all&w=1024",
-            "publishedAt": "2024-11-03T20:58:00Z",
-            "content": "Hugh Jackman joined Martha Stewart in roasting his friend Ryan Reynolds after the cookbook author claimed Reynolds was not so funny in person.\r\nAfter the Deadpool star reacted to the 83-year-old [+3036 chars]"
+            "author": "The New York Times",
+            "title": "Dawsons Creek Star James Van Der Beek Says He Has Colorectal Cancer - The New York Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQThNVTB3ZmprSUllRGY4RzJ0dHlISEwxOC1WU09BMXhwUlhQZmk1bHVucC13bzFyaG5qUExRVDFRdEUzVHJNZHBBTVhKeF9ZN0haOXFkY0lSdjV0NnM0OFJQczhwYnh6YlhjYW1memFmOUVnX3pUWDBUZ0JlNDRQcXdJZ3h0RlU0UzlDX21KbkxvUHRTeEFieWJOZw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:45:10Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "CBS News",
+                "name": "Google News",
                 "article_id": 11
             },
-            "author": null,
-            "title": "Iranian-American held in Iran as tensions high following Israeli attack on country, U.S. says - CBS News",
-            "description": "Reza Valizadeh had worked for Radio Farda, an outlet under Radio Free Europe/Radio Liberty that's overseen by the U.S. Agency for Global Media.",
-            "url": "https://www.cbsnews.com/news/iranian-american-held-iran-reza-valizadeh-us-officials/",
-            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/11/03/2b170f34-5567-4d08-b802-4ae5bb3e68f7/thumbnail/1200x630/c203db4fbd78d4588f77f86ec0298430/cbsn-fusion-the-widening-mideast-conflicts-impact-on-innocent-civilians-thumbnail.jpg?v=379420b9063a2aadbcd559df18e2d1ae",
-            "publishedAt": "2024-11-03T20:31:41Z",
-            "content": "An Iranian-American journalist who once worked for a U.S. government-funded broadcaster is believed to have been detained by Iran for months now, authorities said Sunday, further raising the stakes a [+6045 chars]"
+            "author": "USA TODAY",
+            "title": "Hurricane season still swirling: Rafael could threaten US later this week - USA TODAY",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUQ4YTRfVl9mNUJBZ3Nyc253OVYzNFlaR29vSUpaYklSSHFQcGE4SmZIR25rLU5YR3RGVUVRUzlzWi1nUUh1ZlVvV1ZFRjBjQzJBYmp6VkZlWjFZcDNFWnhwOW5rbzlYWGNPYmlXWTNRWlJ4Y2swcDJCMzd1MlkyZEl2bnQyZy0xMmdNbVk3aFBTR0pjTC04eTNHY25adlQ2YW9DUkVVd0FROFFI?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:45:05Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "The Detroit News",
+                "name": "Google News",
                 "article_id": 12
             },
-            "author": "Melissa Nann Burke, Craig Mauger",
-            "title": "Harris tells Black congregants in Detroit church to 'turn the page on hate' - Detroit News",
-            "description": "Vice President Kamala Harris spoke Sunday at a Black church in Detroit, the first stop in a day-long campaign blitz across southern Michigan.",
-            "url": "https://www.detroitnews.com/story/news/politics/elections/2024/11/03/kamala-harris-detroit-black-church-pontiac-east-lansing-michigan-state-university-campaign-president/75989240007/",
-            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/11/03/PDTN/76033456007-20241103-ctjme-prez-push-047.jpg?crop=2799,1575,x0,y0&width=2799&height=1575&format=pjpg&auto=webp",
-            "publishedAt": "2024-11-03T20:30:17Z",
-            "content": "Detroit Vice President Kamala Harris urged congregants at a Black church in northwest Detroit to \"turn the page on hate\" during the first stop stop in a day-long swing through Michigan ahead of Tuesd [+8791 chars]"
+            "author": "Axios",
+            "title": "NBC files Equal Time notice for Harris' \"SNL\" appearance after FCC chief slams network - Axios",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FaERzSXhueHVCWVFJam5wckIzbkVobzA2SjBtWmQ2eUV4R2w2M28wQkpfY1NfbVJ1Vm10VEd4elM2Y0RtZXBPZHRSTzA3TTF5dGpobTZ4VlY4UFZaa1BkcUNialg0VXBPMWxXaU51Tm1zemZydHFJVUhTNWR0UQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:32:37Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Entertainment Weekly",
+                "name": "Google News",
                 "article_id": 13
             },
-            "author": "https://www.facebook.com/entertainmentweekly",
-            "title": "Saturday Night Live alum Pete Davidson breaks character with pal John Mulaney in latest musical sketch - Entertainment Weekly News",
-            "description": "'Saturday Night Live' alum Pete Davidson returns to the show for pal John Mulaney's latest musical sketch  this time about the horrors of the Port Authority Duane Reade.",
-            "url": "https://ew.com/pete-davidson-returns-to-snl-john-mulaney-musical-sketch-8738859",
-            "urlToImage": "https://ew.com/thmb/dELbQdxHCy8zy46LcOezy4gFJpU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pete-davidson-john-mulaney-saturday-night-live-11324-41cc80db657e49b6be273d474441d46e.jpg",
-            "publishedAt": "2024-11-03T20:26:00Z",
-            "content": "John Mulaney and Pete Davidson have re-teamed up for their latest musical-inspired Saturday Night Live sketch and its just as strange as all the others.\r\nFrom the minds that brought us Diner Lobster, [+3116 chars]"
+            "author": "ESPN",
+            "title": "Source: Raiders fire offensive coordinator Getsy - ESPN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNlFFSTQyZlFHdDFMbHpLa28xS3dKUWFGVUVzOFRTVU51SWx4cFFmM1RLNnlHQ2pkMHpYME45c2FsWW5zZ2tSQnYxZUdPRFdRTzlIY0E4b2RzVUJQTU5PYkhvZjlubE4zWWtMWXdyU0hMY0xDc2xMZ1hnclUwejRUakxGQnU4eXlqc0dRYnp2NXZmUjFQV3pjWkhWaG8ydTdCX0E?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:17:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "The Hill",
+                "name": "Google News",
                 "article_id": 14
             },
-            "author": "Lauren Irwin",
-            "title": "Israeli naval commandos abduct Hezbollah operative: Report - The Hill",
-            "description": "Israeli naval commandos abducted a senior Hezbollah operative in an operation in the northern Lebanese town of Batroun, officials said Saturday. Lebanese authorities said earlier Saturday they were investigating whether Israel was behind the capture of a sea ",
-            "url": "https://thehill.com/policy/international/4968682-israeli-naval-commandos-abduct-hezbollah-operative-report/",
-            "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2024/11/beirut_israeliairstrikes_11012024ap.jpg?w=1280",
-            "publishedAt": "2024-11-03T20:04:00Z",
-            "content": "Skip to content\r\nIsraeli naval commandos abducted a senior Hezbollah operative in an operation in the northern Lebanese town of Batroun, officials said Saturday.\r\nLebanese authorities said earlier Sa [+1351 chars]"
+            "author": "The Associated Press",
+            "title": "Harris and Trump will both make a furious last-day push before Election Day - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZVNkVDAwWnJGWUQ0ci1PXzBKdTVTb09MZHUtU1NyaVlJLWVFaFExbURYTFA1OWsyTTFjb1RFTm1LdVJBdGJnVFp3QUpxWE5jQXYwcW5FQ0MweTBmTVE4aFZwOUlEajdCb2dqWEt2M1pQdW43bXhnSHpFajVmak9HNFdRWXVzZXBveDlUMnhJclRWVWxSX0haRHZfT29PMzVDbnc?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T05:06:00Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "KSL.com",
+                "name": "Google News",
                 "article_id": 15
             },
-            "author": "Cassidy Wixom, KSL.com",
-            "title": "BYU, Toyota develop new welding technique for minivan sliding doors - KSL.com",
-            "description": "The future of minivans is being developed by an unlikely partnership: BYU engineers and Toyota.",
-            "url": "https://www.ksl.com/article/51166088/byu-toyota-develop-new-welding-technique-for-minivan-sliding-doors",
-            "urlToImage": "https://img.ksl.com/slc/3021/302101/30210126.jpeg?filter=kslv2/responsive_story_lg",
-            "publishedAt": "2024-11-03T19:14:54Z",
-            "content": "PROVO An unlikely partnership is developing the future of minivans: engineers at Brigham Young University and the Japanese vehicle-manufacturing giant Toyota.\r\nBYU partnered with Toyota to develop a  [+2478 chars]"
+            "author": "ABC News",
+            "title": "Sean 'Diddy' Combs' lawyers seek gag order, citing 'improper' pretrial publicity - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMkZjZkczMndkeFRHZ2FPNGlfZDM5Tk1VNF83bERaWk9zTW9zZHMxLWZsLVpKT2R6SFVxZ3N6MUlfOUhBQXJNbE5JX3BJVDJ4VG16RnltRjB3UWNYVTNUMEE4SjdGekFDNlBLUG5zeG1iWGNhQm9Bb3NlenJMaUduZlNOVWgtNEJLQlcxVXFnUC1rS3BOZkE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T04:00:05Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Deadline",
+                "name": "Google News",
                 "article_id": 16
             },
-            "author": "Ted Johnson",
-            "title": "FCC Commissioner Claims Kamala Harris' 'SNL' Cameo Was A \"Clear And Blatant\" Effort To Evade Equal Time Rule - Deadline",
-            "description": "FCC Commissioner Brendan Carr claimed that Kamala Harris cameo on Saturday Night Live was a clear and blatant effort by the show to evade the FCCs Equal Time Rule. Carr wrote on X, The purpose of the rule is to avoid exactly this type of biased and parti",
-            "url": "http://deadline.com/2024/11/fcc-kamala-harris-saturday-night-live-equal-time-rule-1236165780/",
-            "urlToImage": "https://deadline.com/wp-content/uploads/2024/11/kamala-harris-snl-.jpg?w=1024",
-            "publishedAt": "2024-11-03T19:05:00Z",
-            "content": "FCC Commissioner Brendan Carr claimed that Kamala Harris cameo on Saturday Night Live was a clear and blatant effort by the show to evade the FCCs Equal Time Rule.\r\nCarr wrote on X, The purpose  [+1953 chars]"
+            "author": "TheStreet",
+            "title": "Warren Buffett cuts Apple stake massively and artfully - TheStreet",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFVyVTVFMVVuaGFoODN0bUlFelJHV3Vfa3BmNUdXeFoxTFlncDZoeE9zVTNBQk5lNFNJZTc2MVJKcU51TEJNSEdnM3hkQWlrS0lrM3NaVU56UThDVzdWMTN5NHN1THg1c1FIS2Z6M2JEekloUWlLS1hxc21mNHdyc1RldWF1bGNRckN3?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T03:07:09Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "MacRumors",
+                "name": "Google News",
                 "article_id": 17
             },
-            "author": "Joe Rossignol",
-            "title": "What to Expect From Apple's M4 Ultra Chip Next Year - MacRumors",
-            "description": "Apple last week debuted its latest M4 Pro and M4 Max chips in the Mac mini and MacBook Pro, and the highest-end M4 Ultra chip should follow next...",
-            "url": "https://www.macrumors.com/2024/11/03/what-to-expect-from-m4-ultra-chip/",
-            "urlToImage": "https://images.macrumors.com/t/vG9h6_Fqxn4iG0LRbXlrpex849Q=/2672x/article-new/2024/04/M4-Mac-Pro-Feature-Cool-2.jpg",
-            "publishedAt": "2024-11-03T18:54:48Z",
-            "content": "Apple last week debuted its latest M4 Pro and M4 Max chips in the Mac mini and MacBook Pro, and the highest-end M4 Ultra chip should follow next year.\r\nIn his Power On newsletter today, Bloomberg's M [+1445 chars]"
+            "author": "Sports Illustrated",
+            "title": "2024 NFL Playoff Picture, Week 9: Surprising Cardinals Lead the NFC West - Sports Illustrated",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRVeFpRYUFuR0d5V3Y2SEI5dmNKLWFQeEo0Q05fNzM5b1FLX0wwYkNfNFBmc3ptS3NXLWIxUkU0Q1dwZjVnTFhYNzB1aFNGWXpFOXo3SkNWVTh6dzYweEN6dnQ1aC1aa0JDc1I0VWJQT3RLVWhNdWJMdW8xUEplaE9TWFJMOUJFM3JPLW1va2VjVkk?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T02:41:52Z",
+            "content": "Content could not be fetched."
         },
         {
             "source": {
-                "name": "Oklahoman.com",
+                "name": "Google News",
                 "article_id": 18
             },
-            "author": "Chris Sims, Jim Sergent",
-            "title": "What channel is Colts vs Vikings on today? Time, TV schedule for NFL Sunday Night Football - Oklahoman.com",
-            "description": "It's the Indianapolis Colts vs. Minnesota Vikings in Week 9 of the 2024 NFL season. Here's how to watch, including time, TV channel and streaming info.",
-            "url": "https://www.oklahoman.com/story/sports/nfl/2024/11/03/colts-vikings-channel-today-time-tv-schedule-streaming-info-nfl-sunday-night-football-week-9/76032189007/",
-            "urlToImage": "https://www.oklahoman.com/gcdn/authoring/images/smg/2024/11/01/SMGW/75984979007-49-78827.jpeg?crop=5550,3122,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
-            "publishedAt": "2024-11-03T18:21:09Z",
-            "content": "Week 9 of the 2024 NFL season's Sunday night game will feature the Indianapolis Colts, who will travel to U.S. Bank Stadium to take on the Minnesota Vikings.\r\nHere's what you need to know about how t [+1697 chars]"
+            "author": "The Associated Press",
+            "title": "Israel says it carried out ground raid into Syria, seizing a Syrian citizen connected to Iran - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTWJNdk5fbV94c1AxUWRDQmt1LS1FRnFsRVEzcWR1ay1ndGFYOGdFNElneVRPTmdLMGNjV3ZXeWhEZ2NlVDBnOVRJMEdRblZDZEpFd2dEUXdfSFpueW9yY2RZREszSzN6TXNjVVF1aVhmOGQxeHU4ODNKQ3A4dVRXdmdwZng0STFWQ19wamxGRDVwZkVwMVFGZTI2SXNQVjB4aXZ0M3l0UzhKUnJ5M0I4djdKSGxSeGx3Qm0yWVQ0VzEwMFlFMnVN?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T02:29:00Z",
+            "content": "Content could not be fetched."
+        },
+        {
+            "source": {
+                "name": "Google News",
+                "article_id": 19
+            },
+            "author": "CNN",
+            "title": "What life is like in one of the most remote places on Earth - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZBZUNZUi1Hay00OTVmN3h5blpxalZIMlFKdGJPQWlhMkNPR0lKS3BWUjlkVzBuZEV5elYwa1FSQ1VhY01NQjdvYzBfVGxsT2pPSWdORVFlSC1XM0NISzhXR3BwWHVpZXpaSUZEOFY3YjNhdTlXTzFhRG1NNEJQWFBtbXlfa2t1TVBMMG84UUJxQdIBiAFBVV95cUxOcGZUem9yVExaTWxVU2Q5VzFTNVR5alFDSHFMSXhacFBnZkdtZkFpMU5TVVk3OVhjQ3dJaF9USGhIMl93TG83Vlh1ZG1hZzdYQ1dPNTMzbC1DZ0dxbFNnT2hPUmpmb1J3NVg3MjhXY1F2NUc1eGhMU3RCbTQ1SWtjZTkzUENUa3lf?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T02:11:00Z",
+            "content": "Content could not be fetched."
+        },
+        {
+            "source": {
+                "name": "Google News",
+                "article_id": 20
+            },
+            "author": "Yahoo Finance",
+            "title": "Markets brace for US election showdown in event-packed week - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGJVa29rVG5LRHVHQzFXZTRnRzgxSks4ejJBWmFnakhzcmxiY09fMkoxT3ZtUzNDQ0JpM3hYZGRNQXJsb0lGMVdPcnZSa1FUUjgwRER6cXZTVmpDVWp5dm42emlCTmdiYmhyZFFEUWJxQWd6eVZDU215QldtLXViblEwWmpLY2s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-11-04T02:05:14Z",
+            "content": "Content could not be fetched."
         }
     ]
 }

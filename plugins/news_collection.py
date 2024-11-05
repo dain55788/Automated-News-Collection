@@ -7,7 +7,6 @@ from data_transformation import transform
 file_path = 'Automated-News-Collection/news_data/news.json'
 
 # ! Data Transformation included
-# check if the articles are removed or not
 
 def get_news_data():
     url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=4b3891226ba640f2923d70515226148b"
