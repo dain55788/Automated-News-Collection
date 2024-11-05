@@ -1,141 +1,11 @@
 {
     "status": "ok",
-    "totalResults": 40494,
+    "totalResults": 39197,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kris Holt",
-            "title": "The PS5 Slim is $50 off for October Prime Day 2024",
-            "description": "The October version of Prime Day has arrived, but some of the best deals are already selling out. Case in point: both variants of the PS5 Slim have dropped by $50, but at least one of them is not currently available at Amazon. Thankfully, rival retailers are …",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_75e56378-3f6c-433c-bb31-fafb6d3e5b6a",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T19:32:46Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T19:35:20Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-14T14:07:16Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T15:00:55Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kris Holt",
-            "title": "Prime Day PS5 deals include the PS5 Slim for $50 off",
-            "description": "The October version of Prime Day has arrived, and some of the best deals are already selling out. On Amazon, we're seeing the PS5 Slim Edition drop as low as $400 (for the all-digital console), but stock is a little unstable. As of writing this, it's current …",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_cc8b7e4c-70e4-4dc3-b92e-a4d2581608de",
-            "urlToImage": null,
-            "publishedAt": "2024-10-09T16:36:55Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T13:30:12Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-29T15:00:16Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Valentina Palladino",
-            "title": "Amazon devices are up to 68 percent off for October Prime Day including Echo speakers, Fire TV Sticks and Blink cameras",
-            "description": "While you can often find discounts on Echo speakers, Fire tablets, Kindles and other Amazon devices throughout the year, October Prime Day is one of the best times of the year to buy them. Amazon usually discounts most of its gadgets for members-only, Prime D…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_60314ddf-ea82-456e-a77d-825604fa0330",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T18:16:07Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Steve Dent",
-            "title": "Canon EOS R5 II review: Canon’s most powerful camera yet puts Sony on notice",
-            "description": "Move over Sony, Canon is trying to take the lead in bleeding-edge tech for mirrorless cameras. The company’s new $4,300, 45-megapixel EOS R5 II offers advanced features like eye-tracking autofocus (AF) that can’t be found on any recent Sony model. The new cam…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_43140d77-c26c-4d8d-afff-8b3dba1645ac",
-            "urlToImage": null,
-            "publishedAt": "2024-10-18T16:00:13Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Valentina Palladino",
-            "title": "Prime Day deals on Amazon devices: You can still get up to 68 percent off Echo speakers, Fire TV Sticks and Blink cameras and more",
-            "description": "October Prime Day presents a good opportunity for Prime members to snag holiday gifts early, and that’s perhaps most relevant for those eyeing Amazon’s own devices. Gadgets like Echo speakers, Fire TV sticks and Kindles are almost guaranteed to be on sale dur…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9441ac5d-df94-46be-93ee-c347c93a24a3",
-            "urlToImage": null,
-            "publishedAt": "2024-10-09T12:22:50Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 1
             },
             "author": "Simon Hill, Gear Team",
             "title": "28 Best Early Amazon Prime Day Deals On Gear We've Tested (October 2024)",
@@ -147,8 +17,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 2
             },
             "author": "Brenda Stolyar",
             "title": "Amazon’s New Kindle Lineup Includes the First-Ever Color Kindle",
@@ -160,21 +30,21 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 3
             },
-            "author": "Jess Weatherbed",
-            "title": "Silicon Valley gets its first drone delivery service",
-            "description": "Matternet has launched a drone delivery pilot in Mountain View and Sunnyvale, California, to courier food and other items to residents’ doorsteps.",
-            "url": "https://www.theverge.com/2024/10/3/24261066/matternet-m2-drone-delivery-service-silicon-valley-launch",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/t0Fnu2MNVfAXh_HaYpZc85UrFuI=/0x0:1280x801/1200x628/filters:focal(640x401:641x402)/cdn.vox-cdn.com/uploads/chorus_asset/file/25656156/Matternet_M2.jpg",
-            "publishedAt": "2024-10-03T12:55:33Z",
-            "content": "Silicon Valley gets its first drone delivery service\r\nSilicon Valley gets its first drone delivery service\r\n / Matternets drone delivery pilot is now available to airlift chocolate and sports drinks … [+1689 chars]"
+            "author": "Charles Pulliam-Moore",
+            "title": "Invincible Fight Girl’s creator wants to keep the dream of serialized animation alive",
+            "description": "Invincible Fight Girl creator Juston Gordon-Montgomery sits down with The Verge to discuss the shonen origins of his new series.",
+            "url": "https://www.theverge.com/2024/11/2/24283804/invincible-fight-girl-interview-juston-gordon-montgomery",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hM9b5pOsrWJSPfsv8Jin9U73Fk8=/0x149:1055x863/1200x628/filters:focal(568x544:569x545)/cdn.vox-cdn.com/uploads/chorus_asset/file/25710902/1.png",
+            "publishedAt": "2024-11-02T14:00:00Z",
+            "content": "Juston Gordon-Montgomery sees his new shonen-inspired Adult Swim series as a gateway to the world of wrestling.\r\nByCharles Pulliam-Moore, a reporter focusing on film, TV, and pop culture. Before The … [+5332 chars]"
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 4
             },
             "author": "David Pierce",
             "title": "The VR game I’ve been waiting for",
@@ -186,8 +56,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 5
             },
             "author": "Todd Feathers",
             "title": "Youth Sports Were Already Intense—Now AI Tools Are Supercharging the Competition",
@@ -199,8 +69,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 6
             },
             "author": "Gizmodo Deals",
             "title": "Forget the Apple Watch: the Garmin Fenix 7X on Prime Day Sale is Your Best Sports Ally",
@@ -212,8 +82,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 7
             },
             "author": "Brittany Vincent",
             "title": "Samsung Offers a Huge Discount on 4K OLED S95C TVs for Anti-Prime Day — Up to $2,200 Off!",
@@ -225,21 +95,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Mike Fazioli",
-            "title": "Time to Go Prime: Amazon’s Massive Fire TV Price Drop Is for Members Only — 38% Off!",
-            "description": "The whopping $170 off deal this top-of-the-line 50-inch 4-Series Fire TV is a Prime Day preview.",
-            "url": "https://gizmodo.com/time-to-go-prime-amazons-massive-fire-tv-price-drop-is-for-members-only-38-off-2000506745",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Amazon-Fire-TV-103.jpg",
-            "publishedAt": "2024-10-03T14:04:34Z",
-            "content": "Amazon Prime Big Deal Days haven’t officially kicked off yet, but we’re starting to see some great early-bird offers. This 50-inch 4-Series 4K Amazon Fire TV is just $280 38% down from the usual $450… [+2209 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 8
             },
             "author": "Lucas Ropek",
             "title": "OpenAI Takes on Google With New ChatGPT Search",
@@ -251,8 +108,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 9
             },
             "author": "Matthew Gault",
             "title": "Surreal Gambling Site Sees Users Bet on Thousands of Dimly Lit and Short-Lived Soccer Matches Every Day",
@@ -264,8 +121,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 10
             },
             "author": "Gizmodo Deals",
             "title": "PIA VPN Flash Sale: Get 83% Off & 2 FREE Months",
@@ -277,8 +134,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 11
             },
             "author": "Mike Fazioli",
             "title": "Early Black Friday Blowout Is Here with $800 Off the LG OLED 4K TV, Cheaper Than iPhones",
@@ -290,8 +147,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 12
             },
             "author": "Isaiah Colbert",
             "title": "Marvel Reveals Deadpool & Wolverine‘s Disney+ Release Date via Literal Toilet Humor",
@@ -303,8 +160,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 13
             },
             "author": "Brittany Vincent",
             "title": "This Amazon 32″ Fire HD TV Is Still Live at the Prime Day Price",
@@ -316,8 +173,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 14
             },
             "author": "Dua Rashid",
             "title": "This Controller Can Swap Its Face Buttons Between Xbox and Nintendo Switch Layouts",
@@ -329,8 +186,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 15
             },
             "author": "Joe Tilleli",
             "title": "Garmin Epix Smartwatch at Record Low Price, Cheaper Than Last Prime Day and Black Friday",
@@ -342,8 +199,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 16
             },
             "author": "Passant Rabie",
             "title": "The Day NASA Smashed an Asteroid: What It Was Like Inside Mission Control",
@@ -355,8 +212,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 17
             },
             "author": "Mike Fazioli",
             "title": "23% Off on the Meta Quest 3 VR Bundle Is Real at Amazon",
@@ -368,8 +225,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 18
             },
             "author": "Kyle Barr",
             "title": "Apple Reveals the New 2024 iMac: Familiar on the Outside, but With New Power Inside",
@@ -381,8 +238,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 19
             },
             "author": "Kyle Barr",
             "title": "This DIY Xbox Handheld Looks as If It Came Straight Outta 2001",
@@ -394,8 +251,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 20
             },
             "author": "Mike Fazioli",
             "title": "Add the Newest Samsung Soundbar Featuring the Lowest Price and Highest Quality to Your Prime Day Cart",
@@ -407,8 +264,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 21
             },
             "author": "Adam Kovac",
             "title": "Why the Batteries in Your Body’s Cells Only Come From Mom and Why It Matters",
@@ -420,21 +277,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Deals",
-            "title": "Galaxy Z Flip 6 at $449 Instead of $1,220: Stock is Running Out on Samsung’s Official Site",
-            "description": "Samsung is being very aggressive with its pricing strategy for the Galaxy Z Flip 6.",
-            "url": "https://gizmodo.com/galaxy-z-flip-6-at-449-instead-of-1220-stock-is-running-out-on-samsungs-official-site-2000505952",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/zflip6-samsung.jpg",
-            "publishedAt": "2024-10-01T20:26:58Z",
-            "content": "This summer, Samsung unveiled its latest foldable smartphones, the Galaxy Z Flip 6 and Galaxy Z Fold 6, further solidifying its position as a leader and pioneer in the foldable phone market. Since la… [+2887 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 22
             },
             "author": "Gizmodo Deals",
             "title": "Forget Black Friday: Here Are 10 Amazon Deals Still Going Strong This Post-Prime Day Monday",
@@ -446,21 +290,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Dua Rashid",
-            "title": "The Best Gadgets of September 2024",
-            "description": "The iPhone 16 didn't disappoint and IFA 2024 gave us a great glimpse of some gadgets we will be obsessed with in 2025.",
-            "url": "https://gizmodo.com/the-best-gadgets-of-september-2024-2000505192",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/best-gadgets-september.jpg",
-            "publishedAt": "2024-10-01T13:45:43Z",
-            "content": "September was officially Apple month. We saw the release of four models of the highly anticipated iPhone 16, among a handful of other Apple refreshes. We also checked out some weird and cool gadgets … [+8117 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 23
             },
             "author": "Dua Rashid",
             "title": "These $40,000 Wireless Speakers Are Like a Spa for Your Ears",
@@ -472,8 +303,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 24
             },
             "author": "Dua Rashid",
             "title": "Upgrade Your Halloween Party With This Spooky Tech",
@@ -485,8 +316,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 25
             },
             "author": "Kyle Barr",
             "title": "The Worst Prime Day Deals of October 2024",
@@ -498,8 +329,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 26
             },
             "author": "Justin Carter",
             "title": "Borderlands Will Always Shoot to the Beat of Its Own Gun",
@@ -511,8 +342,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 27
             },
             "author": "Ed Cara",
             "title": "Cuckoldry, Clocks, and Horror: The Wild History of Our Obsession With the Cuckoo Bird",
@@ -524,8 +355,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 28
             },
             "author": "Sherri L Smith",
             "title": "Apple iPhone 16 vs Google Pixel 9: A Base Model Brawl",
@@ -537,34 +368,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "BBC Sport",
-            "title": "Nominate your Unsung Hero for 2024",
-            "description": "You can now make nominations for the 2024 BBC Sports Personality of the Year Unsung Hero.",
-            "url": "https://www.bbc.com/sport/articles/cy0g8j00398o",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/980e/live/db55e8d0-7fea-11ef-ad45-893aa022fcbc.png",
-            "publishedAt": "2024-10-02T06:00:12Z",
-            "content": "Nominations are now open for the BBC Sports Personality of the Year Unsung Hero award for 2024.\r\nYou can nominate the volunteers making your community better through sport on Unsung Hero or Arwr Tawe… [+1601 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Kenny launches 2024 Unsung Hero award",
-            "description": "Unsung Hero ambassador Dame Laura Kenny announces nominations are now open.",
-            "url": "https://www.bbc.com/sport/videos/clyv0qpvz82o",
-            "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/0d65/live/efdf49b0-7fde-11ef-83dd-fbf1b9732cf0.jpg",
-            "publishedAt": "2024-10-02T06:00:23Z",
-            "content": "BBC Sports Personality of the Year Unsung Hero ambassador Dame Laura Kenny announces that nominations for the 2024 award are now open.\r\nNominate you Unsung Hero here"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 29
             },
             "author": null,
             "title": "From Wimbledon to VAR, is tech hurting the drama of sport?",
@@ -576,8 +381,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 30
+            },
+            "author": "Chris Evans",
+            "title": "How FA Cup final hat-trick hero finally got a headstone",
+            "description": "Two years after scoring a hat-trick in the 1894 FA Cup final, Jimmy Logan was buried in an unmarked pauper's grave. More than 120 years later he got a headstone thanks to some Notts County fans.",
+            "url": "https://www.bbc.com/sport/football/articles/cz9xg08yj1po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/44eb/live/c7966cd0-95dd-11ef-8cc0-f92974148a9a.jpg",
+            "publishedAt": "2024-11-01T06:30:20Z",
+            "content": "Having started his career at Ayr, Logan turned out for clubs including Sunderland, Newcastle and Aston Villa in a colourful career.\r\nBut it was at Notts County where he reached his zenith, scoring re… [+1899 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 31
             },
             "author": "Bobbie Jackson",
             "title": "'Dick Dastardly' tactics - Hill criticises Verstappen",
@@ -589,8 +407,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 32
             },
             "author": null,
             "title": "Statue of NBA star Dwyane Wade sparks fan backlash",
@@ -602,21 +420,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Behind the scenes of Heartstopper series three",
-            "description": "The next series of the Netflix sensation is being released on 3 October.",
-            "url": "https://www.bbc.com/news/articles/czxd0121q1do",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/78e1/live/2ef4ffa0-804d-11ef-b7ce-7bc24e72fab5.jpg",
-            "publishedAt": "2024-10-01T23:31:01Z",
-            "content": "Kit Connor and Joe Locke, who play boyfriends Nick and Charlie, joked it was hard getting used to kissing your friend on camera.\r\nOn a freezing cold November day in 2023, were driving up to a school … [+7189 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 33
             },
             "author": null,
             "title": "For Gen Z, US election is all about the economy",
@@ -628,8 +433,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 34
             },
             "author": "Paul Higham",
             "title": "Chiefs stay unbeaten after scrappy Super Bowl rematch",
@@ -641,8 +446,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 35
             },
             "author": "Chris Jones",
             "title": "Borthwick names 17 England players given RFU deals",
@@ -654,8 +459,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 36
             },
             "author": "Iain Carter",
             "title": "'How Hatton's win may be key to ending golf's paralysis'",
@@ -667,21 +472,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": null,
-            "title": "Plaid Cymru MPs call for Israel boycott",
-            "description": "Plaid Cymru will debate whether the party should support an economic and cultural boycott of Israel.",
-            "url": "https://www.bbc.com/news/articles/c749rn1832do",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6093/live/5fabd3b0-87ed-11ef-b403-c1aa1d1a1676.jpg",
-            "publishedAt": "2024-10-11T22:03:28Z",
-            "content": "Plaid Cymru's four MPs have backed calls for a sporting and economic boycott of Israel over the war in Gaza.\r\nThe party's Westminster group is supporting a motion at the party's conference which call… [+2407 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 37
             },
             "author": "Matt Newsum",
             "title": "Why calendar offers hope to international rugby league",
@@ -693,8 +485,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "BBC News"
+                "name": "BBC News",
+                "article_id": 38
+            },
+            "author": null,
+            "title": "Plaid Cymru MPs call for Israel boycott",
+            "description": "Plaid Cymru will debate whether the party should support an economic and cultural boycott of Israel.",
+            "url": "https://www.bbc.com/news/articles/c749rn1832do",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6093/live/5fabd3b0-87ed-11ef-b403-c1aa1d1a1676.jpg",
+            "publishedAt": "2024-10-11T22:03:28Z",
+            "content": "Plaid Cymru's four MPs have backed calls for a sporting and economic boycott of Israel over the war in Gaza.\r\nThe party's Westminster group is supporting a motion at the party's conference which call… [+2407 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 39
             },
             "author": null,
             "title": "'I never thought I would make it to this stage'",
@@ -706,8 +511,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 40
             },
             "author": "nickodiaz@sbcglobal.net (Nickolas Diaz)",
             "title": "The Polar Vantage M3 is a sporty watch fit for multiple levels of outdoor activity",
@@ -719,8 +524,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 41
             },
             "author": "Nicholas Sutrich",
             "title": "Android 15’s new tablet features get me one step closer to ditching my laptop forever",
@@ -732,8 +537,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 42
             },
             "author": "christinep2424@gmail.com (Christine Persaud)",
             "title": "Our favorite Amazfit smartwatch for battery life is 20% OFF during Prime Big Deal Days",
@@ -745,21 +550,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "tips@androidcentral.com (Nickolas Diaz)",
-            "title": "Garmin's Lily 2 Active pairs built-in GPS and better battery with its classic style",
-            "description": "Garmin launched its new Lily 2 Active smartwatch, going a little further than its early 2024 devices.",
-            "url": "https://www.androidcentral.com/wearables/garmin-lily-2-active-launch-details",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/UUEKNhbCPjH6bLu88bREb4-1200-80.jpg",
-            "publishedAt": "2024-10-03T15:34:28Z",
-            "content": "What you need to know\r\n<ul><li>Garmin launched its new Lily 2 Active watch, a petite device boasting a 1 x 0.84-inch display, two physical buttons, and a unique patterned lens.</li><li>The Lily 2 Act… [+3290 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 43
             },
             "author": "zacharydvisconti@gmail.com (Zachary Visconti)",
             "title": "Amazon's Prime Day knocks 25% OFF the already-affordable OnePlus Buds 3",
@@ -771,8 +563,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 44
             },
             "author": "zacharydvisconti@gmail.com (Zachary Visconti)",
             "title": "Hey, Samsung fans! The Galaxy A35 5G just crashed back to its lowest price EVER at Amazon",
@@ -784,8 +576,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 45
             },
             "author": "Nicholas Sutrich",
             "title": "Samsung just DESTROYED Prime Day with this Galaxy Z Fold 6 sale—up to $1,300 off!",
@@ -797,8 +589,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 46
             },
             "author": "christinep2424@gmail.com (Christine Persaud)",
             "title": "This fab Amazfit smartwatch is under $100 right now at Amazon",
@@ -810,8 +602,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 47
             },
             "author": "zacharydvisconti@gmail.com (Zachary Visconti)",
             "title": "Who needs Black Friday? This HUGE 100-inch Hisense 4K TV is $1,700 off at Best Buy right now",
@@ -823,8 +615,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 48
             },
             "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
             "title": "AYN Odin 2 Portal announced with an OLED display and plenty of power",
@@ -836,8 +628,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 49
             },
             "author": "sharmarajat@zoho.com (Rajat Sharma)",
             "title": "Samsung's Galaxy A35 5G gets 25% slashed off its already awesome price for Prime Big Deal Days",
@@ -849,8 +641,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 50
             },
             "author": "namerah.saud-fatmi@futurenet.com (Namerah Saud Fatmi)",
             "title": "Act fast — you can get a Samsung tablet for less than $200 right now",
@@ -862,8 +654,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 51
             },
             "author": "tips@androidcentral.com (Nickolas Diaz)",
             "title": "Samsung's Galaxy A16 5G gets promised six years of updates for cheap",
@@ -875,8 +667,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 52
             },
             "author": "sharmarajat@zoho.com (Rajat Sharma)",
             "title": "Listen up! The uber-premium Samsung Galaxy S24 Ultra is 25% OFF during Prime Big Deal Days",
@@ -888,8 +680,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 53
             },
             "author": "techkritiko@gmail.com (Jay Bonggolto)",
             "title": "DOOGEE unveils the first 5G rugged phone in its S series",
@@ -901,21 +693,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
-            },
-            "author": "techkritiko@gmail.com (Jay Bonggolto)",
-            "title": "Amazon beefs up the Fire HD 8 lineup with AI and more memory",
-            "description": "The Fire HD 8, now packing 50% more RAM and generative AI features, is up for grabs at just $55 for a limited time.",
-            "url": "https://www.androidcentral.com/tablets/amazon-beefs-up-the-fire-hd-8-lineup-with-ai-and-more-memory",
-            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GdDv2QhWa6hBaQB4nmC4qa-1200-80.jpg",
-            "publishedAt": "2024-10-02T23:58:37Z",
-            "content": "What you need to know\r\n<ul><li>Amazon launched three new Fire HD 8 tablets—Fire HD 8 (2024), Fire HD 8 Kids, and Fire HD 8 Kids Pro.</li><li>Each tablet includes a writing assistant, quick webpage su… [+2783 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 54
             },
             "author": "tips@androidcentral.com (Nickolas Diaz)",
             "title": "Amazon's Apple TV Plus add-on for Prime Video is a huge content library expansion",
@@ -927,8 +706,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 55
             },
             "author": "michael.hicks@futurenet.com (Michael L Hicks)",
             "title": "Qualcomm has intense AI plans for your next car with Cockpit Elite, and not just self-driving tech",
@@ -940,8 +719,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 56
             },
             "author": "michael.hicks@futurenet.com (Michael L Hicks)",
             "title": "One of the last MIP holdouts released its first AMOLED running watch",
@@ -953,8 +732,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 57
             },
             "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
             "title": "I review Chromebooks for a living — These are the 5 best last-minute Prime Day deals",
@@ -966,8 +745,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 58
+            },
+            "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+            "title": "Chromebook vs. iPad: Here's what I think you should go with",
+            "description": "Chromebooks have come a long way.",
+            "url": "https://www.androidcentral.com/chromebooks-laptops/chromebook-vs-ipad",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/95c9nStgqwKfiDgrYRVQw3-1200-80.jpg",
+            "publishedAt": "2024-11-01T17:00:00Z",
+            "content": "(Image credit: Nicholas Sutrich / Android Central)\r\nBeyond the Alphabet is a weekly column that focuses on the tech world both inside and out of the confines of Mountain View.\r\nAfter Apple recently a… [+7255 chars]"
+        },
+        {
+            "source": {
+                "name": "Android Central",
+                "article_id": 59
             },
             "author": "Nicholas Sutrich",
             "title": "One week with the Meta Quest 3S: Five biggest takeways",
@@ -979,8 +771,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 60
             },
             "author": "Nicholas Sutrich",
             "title": "Meta Quest 3S review: The next-gen VR console you can afford",
@@ -992,8 +784,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 61
             },
             "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
             "title": "Lenovo Chromebook Duet 11 Review: The best Chromebook tablet gets better",
@@ -1005,8 +797,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 62
             },
             "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
             "title": "Google TV Streamer review: Fantastic, but not perfect",
@@ -1018,8 +810,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Android Central"
+                "name": "Android Central",
+                "article_id": 63
             },
             "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
             "title": "Ayaneo Pocket S Review: Defining premium Android gaming",
@@ -1031,8 +823,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MacRumors"
+                "name": "MacRumors",
+                "article_id": 64
             },
             "author": "Hartley Charlton",
             "title": "Apple CEO Tim Cook and COO Jeff Williams Visiting China",
@@ -1044,8 +836,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MacRumors"
+                "name": "MacRumors",
+                "article_id": 65
             },
             "author": "Tim Hardwick",
             "title": "Apple TV+ Coming to Amazon Prime Video as Add-On Subscription",
@@ -1057,8 +849,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "MacRumors"
+                "name": "MacRumors",
+                "article_id": 66
             },
             "author": "Juli Clover",
             "title": "Apple Launches 'Submerged' Short Film for Vision Pro, Outlines Upcoming Content",
@@ -1070,8 +862,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 67
             },
             "author": "Gael Cooper",
             "title": "Today's NYT Connections: Sports Edition Hints and Answers for Oct. 28, #35",
@@ -1083,8 +875,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 68
             },
             "author": "Gael Cooper",
             "title": "Today's NYT Connections: Sports Edition Hints and Answers for Oct. 31, #38",
@@ -1096,8 +888,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 69
             },
             "author": "Gael Cooper",
             "title": "Today's NYT Connections: Sports Edition Hints and Answers for Oct. 20, #27",
@@ -1109,8 +901,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 70
             },
             "author": "Eli Blumenthal",
             "title": "NBA Streaming 2024: How to Watch, Livestream Basketball This Season",
@@ -1122,8 +914,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 71
+            },
+            "author": "Kevin Lynch",
+            "title": "Ligue 1 Soccer: Livestream PSG vs. Lens From Anywhere",
+            "description": "The league leaders look to maintain their unbeaten start to their title defense.",
+            "url": "https://www.cnet.com/tech/services-and-software/ligue-1-soccer-livestream-psg-vs-lens-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/0c2b9cb4e4d4c3c190f827fd4c7902ba42534a68/hub/2024/11/02/266a4ce6-2bc5-487d-9d73-7770d526fb95/gettyimages-2181538777.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-02T13:00:00Z",
+            "content": "Paris Saint Germain looks to maintain their 3-point cushion at the top of Ligue 1 as they host sixth placed Lens at the Parc des Princes on Saturday. \r\nLast weekend's convincing 3-0 away win in Le Cl… [+5848 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 72
             },
             "author": "Kevin Lynch",
             "title": "Ligue 1 Soccer: Livestream PSG vs. Strasbourg From Anywhere",
@@ -1135,8 +940,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 73
             },
             "author": "Kevin Lynch",
             "title": "La Liga Soccer Livestream: How to Watch Celta Vigo vs. Real Madrid From Anywhere",
@@ -1148,8 +953,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 74
             },
             "author": "Kevin Lynch",
             "title": "Premier League Soccer: Livestream Chelsea vs. Newcastle From Anywhere",
@@ -1161,8 +966,21 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 75
+            },
+            "author": "Kevin Lynch",
+            "title": "La Liga Soccer Livestream: How to Watch Barcelona vs. Espanyol From Anywhere",
+            "description": "Barca look to build on thrilling El Clásico win as they host the Periquitos in the Catalan derby.",
+            "url": "https://www.cnet.com/tech/services-and-software/la-liga-soccer-livestream-how-to-watch-barcelona-vs-espanyol-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a154808e0d79d651b3ddcd0967647ebd3ac05d72/hub/2024/11/03/bd974fc0-f0b1-4fb5-9731-3fa4b167b1b3/gettyimages-2181232014.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-03T12:15:04Z",
+            "content": "Barcelona face a tricky Catalan derby test on Sunday as they host Espanyol at the Lluís Companys Olympic Stadium in this key Spanish Primera fixture. \r\nIt's been a superb start to the season for the … [+4979 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 76
             },
             "author": "Kevin Lynch",
             "title": "Premier League Soccer: Livestream Aston Villa vs. Man United From Anywhere",
@@ -1174,8 +992,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 77
             },
             "author": "Kevin Lynch",
             "title": "Premier League Soccer: Livestream Arsenal vs. Liverpool From Anywhere",
@@ -1187,8 +1005,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 78
             },
             "author": "Macy Meyer",
             "title": "Expensive Lululemon Workout Set? Here's How to Wash It Safely",
@@ -1200,8 +1018,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 79
             },
             "author": "Gael Cooper",
             "title": "Today's NYT Connections Hints, Answers and Help for Oct. 31, #508",
@@ -1213,8 +1031,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 80
             },
             "author": "Kevin Lynch",
             "title": "Watch UEFA Nations League Soccer: Livestream Scotland vs. Portugal From Anywhere",
@@ -1226,8 +1044,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 81
             },
             "author": "Kevin Lynch",
             "title": "Watch UEFA Nations League Soccer: Livestream Finland vs. England From Anywhere",
@@ -1239,34 +1057,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Kevin Lynch",
-            "title": "Champions League Soccer: Livestream Arsenal vs. PSG From Anywhere",
-            "description": "The pick of Tuesday's UCL ties sees the Gunners host the French giants in north London.",
-            "url": "https://www.cnet.com/tech/services-and-software/champions-league-soccer-livestream-arsenal-vs-psg-from-anywhere/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/abfdc5ccc6a9e7f64998b2501c84d2fad034d423/hub/2024/10/01/7ac866af-f439-4f3f-86e3-4859f653a79e/gettyimages-2172800882.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-01T16:00:11Z",
-            "content": "It's a glamour European tie at the Emirates Stadium on Tuesday, as Premier League high-fliers Arsenal host French giants Paris Saint Germain in this Gameweek 2 UCL clash. \r\nCurrently third in the EPL… [+4962 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Matt Elliott",
-            "title": "NFL London Game: How to Watch, Stream Bears vs. Jaguars This Morning",
-            "description": "Chicago and Jacksonville get Week 6 started today with the NFL's third international game of the season.",
-            "url": "https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-bears-vs-jaguars-this-morning/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/58c33b3f40c073c8049ffa57edf6b90f69d9349d/hub/2024/10/10/8101de37-1f95-4a7c-83a1-0fdac8c3cc23/gettyimages-2166734419.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-13T10:00:03Z",
-            "content": "It's another earlier-than-usual start to the Sunday slate of games today because, for the second consecutive week, there's an international contest. The Chicago Bears and Jacksonville Jaguars are pla… [+1465 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 82
             },
             "author": "Matt Elliott",
             "title": "NFL London Game: How to Watch, Stream Jets vs. Vikings This Morning",
@@ -1278,8 +1070,34 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 83
+            },
+            "author": "Matt Elliott",
+            "title": "NFL London Game: How to Watch, Stream Bears vs. Jaguars This Morning",
+            "description": "Chicago and Jacksonville get Week 6 started today with the NFL's third international game of the season.",
+            "url": "https://www.cnet.com/tech/services-and-software/nfl-london-game-how-to-watch-stream-bears-vs-jaguars-this-morning/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/58c33b3f40c073c8049ffa57edf6b90f69d9349d/hub/2024/10/10/8101de37-1f95-4a7c-83a1-0fdac8c3cc23/gettyimages-2166734419.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-13T10:00:03Z",
+            "content": "It's another earlier-than-usual start to the Sunday slate of games today because, for the second consecutive week, there's an international contest. The Chicago Bears and Jacksonville Jaguars are pla… [+1465 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 84
+            },
+            "author": "Eli Blumenthal",
+            "title": "Steelers vs. Raiders Livestream: How to Watch NFL Week 6 Online Today",
+            "description": "Pittsburgh look to avoid three defeats on the spin as they travel to Allegiant Stadium.",
+            "url": "https://www.cnet.com/tech/services-and-software/steelers-vs-raiders-livestream-how-to-watch-nfl-week-6-online-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/6ff4edca701cd9edbb455be59217b20d432b56f6/hub/2024/10/11/230f5615-c429-4848-a654-ce569b2c4934/gettyimages-2174717173.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-13T17:05:03Z",
+            "content": "The Steelers enter Week 6 after losing two close contests. In Week 4 they fell to the Colts; on Sunday Night Football in Week 5 a late Cowboys touchdown was the difference. Pittsburgh will look to sn… [+5620 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 85
             },
             "author": "Eli Blumenthal",
             "title": "Chargers vs. Broncos Livestream: How to Watch NFL Week 6 Online Today",
@@ -1291,16 +1109,68 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "CNET"
+                "name": "CNET",
+                "article_id": 86
             },
             "author": "Eli Blumenthal",
-            "title": "Steelers vs. Raiders Livestream: How to Watch NFL Week 6 Online Today",
-            "description": "Pittsburgh look to avoid three defeats on the spin as they travel to Allegiant Stadium.",
-            "url": "https://www.cnet.com/tech/services-and-software/steelers-vs-raiders-livestream-how-to-watch-nfl-week-6-online-today/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/6ff4edca701cd9edbb455be59217b20d432b56f6/hub/2024/10/11/230f5615-c429-4848-a654-ce569b2c4934/gettyimages-2174717173.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2024-10-13T17:05:03Z",
-            "content": "The Steelers enter Week 6 after losing two close contests. In Week 4 they fell to the Colts; on Sunday Night Football in Week 5 a late Cowboys touchdown was the difference. Pittsburgh will look to sn… [+5620 chars]"
+            "title": "Dolphins vs. Bills: How to Watch NFL Week 9 Online Today",
+            "description": "The runaway AFC East leaders look to make it four wins on the spin as they host Miami.",
+            "url": "https://www.cnet.com/tech/services-and-software/dolphins-vs-bills-how-to-watch-nfl-week-9-online-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/06b0f66f0d35e05f46c5fa80830b1a28d6145efa/hub/2024/10/31/d3584054-e038-4ac1-943e-0d6e910aca60/gettyimages-2181596842.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-03T15:00:04Z",
+            "content": "When to watch the Dolphins vs. Bills? \r\n<ul><li>Sunday, Nov. 3 at 1 p.m. ET (10 a.m. PT).</li></ul>Where to watch? \r\n<ul><li>The Dolphins-Bills game will air on CBS.</li></ul>Tua Tagovailoa is back u… [+5765 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 87
+            },
+            "author": "Matt Elliott",
+            "title": "Chargers vs. Browns: How to Watch NFL Week 9 Online Today",
+            "description": "Much-improved Cleveland hosts LA at Huntington Bank Field.",
+            "url": "https://www.cnet.com/tech/services-and-software/chargers-vs-browns-how-to-watch-nfl-week-9-online-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a237d625c2cfc3381c92bac5878e9f2686f12e74/hub/2024/11/01/b98351ac-88f1-4a90-84a6-ba5cc0e81a93/gettyimages-2181364723.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-11-03T15:00:14Z",
+            "content": "When to watch the Chargers vs. Browns? \r\n<ul><li>Sunday, Nov. 3 at 1 p.m. ET (10 a.m. PT).</li></ul>Where to watch? \r\n<ul><li>The Chargers-Browns game will air on CBS.</li></ul>Where has this offense… [+5816 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 88
+            },
+            "author": "Kevin Lynch",
+            "title": "Watch UEFA Nations League Soccer: Livestream Poland vs. Croatia From Anywhere",
+            "description": "Group A1 clash sees third-placed Poles host the second-placed Croats.",
+            "url": "https://www.cnet.com/tech/services-and-software/watch-uefa-nations-league-soccer-livestream-poland-vs-croatia-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/a7508fa8e4a16bb0df1d9f2b0b02231509f85033/hub/2024/10/15/239dfb9d-20ac-41f7-9d6b-e7e875af9848/gettyimages-2178116661.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-15T15:45:04Z",
+            "content": "Poland can boost their slim hopes of a Nations League quarterfinal place with a win against Croatia in this key Group A1 clash in Warsaw. \r\nThe Poles currently find themselves in third in the table b… [+4471 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 89
+            },
+            "author": "Kevin Lynch",
+            "title": "Premier League Soccer: Livestream Man City vs. Southampton From Anywhere",
+            "description": "The defending champs host the winless Saints at the Etihad.",
+            "url": "https://www.cnet.com/tech/services-and-software/premier-league-soccer-livestream-man-city-vs-southampton-from-anywhere/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/fbed35901be28cef7d5925bb8cddc1821d7f5040/hub/2024/10/26/c2d255ff-4237-48f5-8305-a374c3d2668e/gettyimages-2177264216.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-26T11:00:19Z",
+            "content": "The omens don't look good for struggling Southampton today as they take on title-chasing Man City at the Etihad Stadium. \r\nThe leaky Saints have failed to keep a clean sheet in any fixture so far thi… [+5166 chars]"
+        },
+        {
+            "source": {
+                "name": "CNET",
+                "article_id": 90
+            },
+            "author": "Matt Elliott",
+            "title": "Bills vs. Seahawks Livestream: How to Watch NFL Week 8 Online Today",
+            "description": "Want to watch Buffalo play Seattle? Here's everything you need to stream Sunday's 1:05 p.m. PT game on Fox.",
+            "url": "https://www.cnet.com/tech/services-and-software/bills-vs-seahawks-livestream-how-to-watch-nfl-week-8-online-today/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ed0b272e42cf46d900c81525695b840a34e6a1c7/hub/2024/10/25/773b1f86-06aa-43a0-af75-958036d75b67/gettyimages-2180346123.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2024-10-27T17:05:03Z",
+            "content": "When to watch the Bills vs. Seahawks? \r\n<ul><li> Sunday, Oct. 27 at 1:05 p.m. PT (4:05 p.m. ET).  </li></ul>Where to watch? \r\n<ul><li> The Bills-Seahawks game will air on Fox.  </li></ul>The division… [+5249 chars]"
         }
     ]
 }

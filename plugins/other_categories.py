@@ -1,11 +1,10 @@
 import requests
 import json
-import os
-from datetime import datetime
-# URL
+from data_transformation import transform
+
+categories_list = ['technology', 'sports', 'entertainment', 'politic', 'business', 'health']
 
 def get_other_news_categories():
-    categories_list = ['technology', 'sports', 'entertainment', 'politic', 'business', 'health']
     for i in range(len(categories_list)):
 
         if categories_list[i] == 'politic':
@@ -13,7 +12,7 @@ def get_other_news_categories():
         else:
             response = requests.get(f"https://newsapi.org/v2/everything?q={categories_list[i]}&language=en&sortBy=popularity&apiKey=4b3891226ba640f2923d70515226148b")
 
-        file_path = f'news_data/{categories_list[i]}_news.json'
+        file_path = f'Automated-News-Collection/news_data/{categories_list[i]}_news.json'
 
         print("Start execution")
     
@@ -24,7 +23,10 @@ def get_other_news_categories():
             # Save the data to a JSON file
             with open(file_path, 'w', encoding="utf-8") as f:
                 json.dump(news, f, ensure_ascii=False, indent=4)
-
-            print(f"News articles saved to {categories_list[i]} file.")
+            
+            transform(file_path)
+            print(f"News articles saved to {categories_list[i]} file and has been transformed.")
         else:
             print(f"Failed to fetch news: {response.status_code}")
+
+get_other_news_categories()

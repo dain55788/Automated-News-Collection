@@ -1,193 +1,11 @@
 {
     "status": "ok",
-    "totalResults": 91423,
+    "totalResults": 87998,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T11:17:12Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Danny Gallagher",
-            "title": "President Biden sets up new AI guardrails for military, intelligence agencies",
-            "description": "The White House issued its first national security memorandum outlining the use of artificial intelligence for the military and intelligence agencies. The White House also shared a shortened copy of the memo with the public.\nThe new memo sets up guidelines fo…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_746fa7c6-f0ab-4e51-accc-588b2d550fa7",
-            "urlToImage": null,
-            "publishedAt": "2024-10-24T20:17:53Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-12T21:27:59Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Anna Washenko",
-            "title": "OpenAI and Microsoft are funding $10 million in grants for AI-powered journalism",
-            "description": "OpenAI and Microsoft are funding projects to bring more AI tools into the newsroom. The duo will give grants of up to $10 million to Chicago Public Media, the Minnesota Star Tribune, Newsday (in Long Island, NY), The Philadelphia Inquirer and The Seattle Time…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4f5a67c-45e7-4197-be4b-8ec7e70c5bc4",
-            "urlToImage": null,
-            "publishedAt": "2024-10-22T19:30:42Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T17:30:45Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-01T15:57:51Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Danny Gallagher",
-            "title": "X’s Community Notes feature has one job, and it’s failing to do it",
-            "description": "It’s no secret that X has become an even bigger cesspool of misleading information, unchecked claims and flat-out falsities since Elon Musk took over. Two new reports from The Center for Countering Digital Hate (CCDH) and The Washington Post reveals that the …",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_51152d06-3544-4225-bbb9-3e792bc21690",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T20:26:45Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T10:00:46Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-11T12:00:01Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kris Holt",
-            "title": "GM is ditching its one-size-fits-all Ultium battery system and adopting other cell formats",
-            "description": "GM\r\n is charting a course away from its Ultium battery system\r\n. The company is dropping that standardized approach in favor of a wider range of battery cell chemistries and physical formats.\nThe automaker had hoped that, by adopting a unified system across a…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_08954e45-89d3-4dbb-9a45-6de09410655c",
-            "urlToImage": null,
-            "publishedAt": "2024-10-09T19:30:42Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Mariella Moon",
-            "title": "Judge blocks new California law barring distribution of election-related AI deepfakes",
-            "description": "One of California's new AI laws, which aims to prevent AI deepfakes related to elections from spreading online, has been blocked a month before the US presidential elections. As TechCrunch and Reason report, Judge John Mendez has issued a preliminary injuncti…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_58afc5d8-c511-4803-9be0-76953910c548",
-            "urlToImage": null,
-            "publishedAt": "2024-10-03T13:30:43Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T14:00:46Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Cooper",
-            "title": "The Morning After: Apple’s Week of Announcements starts Monday",
-            "description": "If you’re fluent with concepts like release schedules and calendars, you may notice Apple hasn’t updated its computers in a while. It’s nearly a full year since the iMac and MacBook Pro got speed bumps, and just over a year for the Mac Pro and Mac Studio. Now…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fff9f5be-a2f9-47ac-97ca-ed507d083a72",
-            "urlToImage": null,
-            "publishedAt": "2024-10-25T11:15:15Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jessica Conditt",
-            "title": "How Fear the Spotlight became Blumhouse's first video game",
-            "description": "Blumhouse wasn’t going to publish a game in 2024. The studio, one of the leading names in horror films, announced in February 2023 that it was launching a video game publishing business and executives were scouting projects from independent teams with budgets…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fa5690ac-07e0-4211-8cf2-1fb4da7a8877",
-            "urlToImage": null,
-            "publishedAt": "2024-10-25T14:00:44Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 1
             },
             "author": "Makena Kelly",
             "title": "A Running List of the Tech CEOs Donald Trump Claims Are Calling Him to Suck Up",
@@ -199,8 +17,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 2
             },
             "author": "Makena Kelly",
             "title": "Ahead of the Election, Social Media Platforms Have Given Up",
@@ -212,8 +30,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 3
             },
             "author": "Vittoria Elliott",
             "title": "Elon Musk's America PAC Has Created an Election Denial Cesspool on X",
@@ -225,8 +43,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 4
             },
             "author": "Dell Cameron, Tess Owen",
             "title": "DHS Warns Law Enforcement Election Deniers May Attempt to Bomb Drop Boxes",
@@ -238,8 +56,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 5
             },
             "author": "Tess Owen",
             "title": "Online Talk About ‘Civil War’ Could Inspire Real-World Violence, DHS Warns Cops",
@@ -251,21 +69,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Will Knight",
-            "title": "The OpenAI Talent Exodus Gives Rivals an Opening",
-            "description": "OpenAI built a reputation for making bold research bets before others. After a recent brain drain, it needs to attract a new generation of researchers to keep this going.",
-            "url": "https://www.wired.com/story/openai-departures-research-rivals-artificial-intelligence/",
-            "urlToImage": "https://media.wired.com/photos/66fe8a8d3fd2ca9aa8c822c4/191:100/w_1280,c_limit/GettyImages-1797227981.jpg",
-            "publishedAt": "2024-10-07T17:04:15Z",
-            "content": "When investors poured $6.6 billion into OpenAI last week, they seemed largely unbothered by the latest drama, which recently saw the companys chief technology officer, Mira Murati, along with chief r… [+2826 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 6
             },
             "author": "Joel Khalili",
             "title": "Trumpcoin Launches With a Whimper",
@@ -277,8 +82,21 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 7
+            },
+            "author": "Will Knight",
+            "title": "The OpenAI Talent Exodus Gives Rivals an Opening",
+            "description": "OpenAI built a reputation for making bold research bets before others. After a recent brain drain, it needs to attract a new generation of researchers to keep this going.",
+            "url": "https://www.wired.com/story/openai-departures-research-rivals-artificial-intelligence/",
+            "urlToImage": "https://media.wired.com/photos/66fe8a8d3fd2ca9aa8c822c4/191:100/w_1280,c_limit/GettyImages-1797227981.jpg",
+            "publishedAt": "2024-10-07T17:04:15Z",
+            "content": "When investors poured $6.6 billion into OpenAI last week, they seemed largely unbothered by the latest drama, which recently saw the companys chief technology officer, Mira Murati, along with chief r… [+2826 chars]"
+        },
+        {
+            "source": {
+                "name": "Wired",
+                "article_id": 8
             },
             "author": "Tess Owen",
             "title": "Steve Bannon Is Out of Prison and Spreading Lies Online",
@@ -290,8 +108,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 9
             },
             "author": "Zach Dorfman",
             "title": "The Untold Story of Trump's Failed Attempt to Overthrow Venezuela's President",
@@ -303,34 +121,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Verity Burns",
-            "title": "We Staged a Debate to Test the Bluetooth Earrings Kamala Harris Didn’t Wear",
-            "description": "Could Vice President Harris have used these Bluetooth audio earrings to gain any debate advantage? Not on your life.",
-            "url": "https://www.wired.com/review/review-nova-h1-audio-earrings/",
-            "urlToImage": "https://media.wired.com/photos/66fc4b46965245bee6a8433f/191:100/w_1280,c_limit/kamala-earrings-gear-103405629.jpg",
-            "publishedAt": "2024-10-01T20:32:06Z",
-            "content": "Just a few weeks ago, certain people in a particular corner of the internet decided they had cracked the reason Kamala Harris was doing so much better than Donald Trump in the presidential debate. No… [+3262 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Makena Kelly",
-            "title": "Get Your VP Debate Bingo Card Right Here",
-            "description": "Vice presidential nominees J.D. Vance and Tim Walz are debating tonight. Let's follow along together!",
-            "url": "https://www.wired.com/story/bingo-how-to-watch-vp-walz-vance-debate/",
-            "urlToImage": "https://media.wired.com/photos/66f70c288af4eb900c2450f5/191:100/w_1280,c_limit/vp-debate-498125917.jpg",
-            "publishedAt": "2024-10-01T10:00:00Z",
-            "content": "On Tuesday night, vice presidential nominees J.D. Vance and Tim Walz will debate one another for the first and only time ahead of the November presidential election.\r\nBefore becoming an Ohio senator,… [+1908 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 10
             },
             "author": "David Gilbert",
             "title": "Neo-Nazis Are Fleeing Telegram for Encrypted App SimpleX Chat",
@@ -342,8 +134,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 11
             },
             "author": "Issie Lapowsky",
             "title": "The American Who Waged a Tech War on China",
@@ -355,8 +147,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 12
             },
             "author": "Vas Panagiotopoulos",
             "title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
@@ -368,8 +160,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 13
             },
             "author": "David Gilbert",
             "title": "'We're a Fortress Now': The Militarization of US Elections Is Here",
@@ -381,8 +173,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 14
             },
             "author": "Tess Owen",
             "title": "Leaked Docs From Far-Right Militias Show History of Voter Intimidation Plans",
@@ -394,8 +186,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 15
             },
             "author": "Eric Geller",
             "title": "How a Trump Win Could Unleash Dangerous AI",
@@ -407,8 +199,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 16
             },
             "author": "Reece Rogers",
             "title": "OpenAI's ChatGPT Breaks Out of Its Box—and Onto a Canvas",
@@ -420,8 +212,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 17
             },
             "author": "James Fallows",
             "title": "After the Election, California (Yes, That Hellscape) Will Keep Moving the World Forward No Matter What",
@@ -433,8 +225,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 18
             },
             "author": "The Verge Staff",
             "title": "The Verge’s guide to the 2024 presidential election",
@@ -446,21 +238,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "How to watch the vice presidential debate between Tim Walz and JD Vance",
-            "description": "Minnesota Governor Tim Walz and Ohio Sen. JD Vance, each nominees for vice president, will debate onstage during a CBS broadcast at 9PM ET on Tuesday.",
-            "url": "https://www.theverge.com/2024/10/1/24258376/vice-presidential-debate-tim-walz-jd-vance-watch-time-date-stream",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vJombjrF47qQ0LbnLurQoTPlxQc=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651220/STK206_STK204_JD_VANCE_TIM_WALZ_A.jpg",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "How to watch the vice presidential debate between Tim Walz and JD Vance\r\nHow to watch the vice presidential debate between Tim Walz and JD Vance\r\n / On Tuesday night, the former school teacher will m… [+3420 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 19
             },
             "author": "Lauren Feiner",
             "title": "FCC chair rejects Trump’s call to revoke CBS license over Harris interview edit",
@@ -472,8 +251,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 20
             },
             "author": "Justine Calma",
             "title": "Amazon says it ditched plastic air pillows",
@@ -485,8 +264,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 21
             },
             "author": "Andrew J. Hawkins",
             "title": "This election will decide what kind of car you’ll buy",
@@ -498,21 +277,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Andrew Liszewski",
-            "title": "Target’s new sneakers expand to fit growing feet",
-            "description": "Target has partnered with a prominent shoe designer for its new ÜNOS by Sz sneakers that expand an extra half size for kids and an additional full size for adults.",
-            "url": "https://www.theverge.com/2024/10/2/24260153/target-unos-by-sz-shoes-sneakers",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/KJ3jmnOwvXPRPlyQp1tEV9R6V8I=/0x0:1000x668/1200x628/filters:focal(500x334:501x335)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654067/targetshoes1.jpg",
-            "publishedAt": "2024-10-02T14:09:32Z",
-            "content": "Targets new sneakers expand to fit growing feet\r\nTargets new sneakers expand to fit growing feet\r\n / A split sole allows the ÜNOS by Sz to expand an extra half size for kids and an additional full si… [+2259 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 22
             },
             "author": "Elizabeth Lopatto",
             "title": "The future of crypto regulation comes down to one unpopular man",
@@ -524,21 +290,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Gaby Del Valle",
-            "title": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight",
-            "description": "During the vice presidential debate, JD Vance followed his weirdest, most viral falsehood with a litany of banal lies about immigration, asylum, deportation, and more.",
-            "url": "https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vJombjrF47qQ0LbnLurQoTPlxQc=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651220/STK206_STK204_JD_VANCE_TIM_WALZ_A.jpg",
-            "publishedAt": "2024-10-02T03:57:06Z",
-            "content": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\nThe Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\n / Vance blamed migrant… [+7066 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 23
             },
             "author": "Gaby Del Valle",
             "title": "Trump’s crypto website crashed after its token went on sale",
@@ -550,8 +303,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 24
             },
             "author": "Tom Warren",
             "title": "OneDrive is getting a new mobile app, better search, and colored folders in File Explorer",
@@ -563,8 +316,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 25
             },
             "author": "Jess Weatherbed",
             "title": "Meta brings back face scanning to combat scams and account hacking",
@@ -576,60 +329,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’",
-            "description": "What Sen. JD Vance and Gov. Tim Walz said about censorship, January 6th, and Big Tech at the vice presidential debate.",
-            "url": "https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZCCaHiZnhJClEGOMJC2QeNZ4-fk=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651225/STK206_STK204_JD_VANCE_TIM_WALZ_D.jpg",
-            "publishedAt": "2024-10-02T04:00:36Z",
-            "content": "JD Vance avoids January 6th questions by pivoting to Facebook censorship\r\nJD Vance avoids January 6th questions by pivoting to Facebook censorship\r\n / When Tim Walz asked point-blank who won the 2020… [+3704 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft starts rolling out its Windows 11 2024 update with lots of useful improvements",
-            "description": "Microsoft’s latest Windows 11 2024 update is now rolling out. It includes improvements to the Start menu, File Explorer, system tray, and Settings.",
-            "url": "https://www.theverge.com/2024/10/1/24258260/microsoft-windows-11-2024-update-24h2-download",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/pn0m7T2Z1eOSDPuU8ppSzy2k39g=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/22679323/Hero_Bloom_Logo.jpg",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "Image: Microsoft\r\n\n \n\n Microsoft is starting to release its Windows 11 2024 update today, also known as version 24H2. This update includes a number of small but useful additions to Windows 11 that im… [+5127 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft is using AI to improve Windows search",
-            "description": "Microsoft is improving its Windows search across File Explorer and Settings thanks to AI. A new Click to Do feature is also coming to Copilot Plus PCs.",
-            "url": "https://www.theverge.com/2024/10/1/24258337/microsoft-windows-ai-features-click-to-do-super-resolution-photos",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/8s8I7AylXBTh6TJSDcu9rY5P0DY=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652423/Improved_Windows_Search.png",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "Illustration by Alex Castro / The Verge\r\n\n \n\n Microsoft is using AI models to greatly improve Windows search on its new Copilot Plus PCs, including the addition of a new Click to Do feature that’s ve… [+4384 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft gives Copilot a voice and vision in its biggest redesign yet",
-            "description": "Microsoft is overhauling its Copilot AI assistant with a new design and features. Copilot is getting voice and vision features that offer more personalized feeds.",
-            "url": "https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-H77z6SYbFrw3XoZ-53QGY0Wqjw=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652460/copilothed.jpg",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "Image: Microsoft\r\n\n \n\n\n Copilot is transforming into a more personalized AI assistant thanks to Inflection. Microsoft is unveiling a big overhaul of its Copilot experience today, adding voice and vis… [+8485 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 26
             },
             "author": "Andrew J. Hawkins",
             "title": "The bill finally comes due for Elon Musk",
@@ -641,8 +342,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 27
             },
             "author": "Dua Rashid",
             "title": "OnePlus President Says OnePlus 13 Will Reach a ‘Height Never Seen Before on Android’",
@@ -654,8 +355,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 28
             },
             "author": "Lucas Ropek",
             "title": "Why Did Kevin From The Office Call for the President of Moldova to Be Overthrown?",
@@ -667,8 +368,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 29
             },
             "author": "Todd Feathers",
             "title": "The Biden Administration Touts Its Big Year in AI",
@@ -680,8 +381,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 30
             },
             "author": "Matthew Gault",
             "title": "With Putin Calls, It’s More Clear Than Ever That Elon Musk Is a National Security Threat",
@@ -693,8 +394,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 31
             },
             "author": "Todd Feathers",
             "title": "Cuba Falls Into Total Electricity Blackout After Nuclear Plant Fails",
@@ -706,8 +407,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 32
             },
             "author": "Matt Novak",
             "title": "MAGA Faithful Say McDonald’s E. Coli Outbreak Is a Conspiracy to Hurt Trump",
@@ -719,8 +420,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 33
             },
             "author": "Matt Novak",
             "title": "Dems Launch Taylor Swift Snapchat Filter to Target Young Voters for Kamala Harris",
@@ -732,8 +433,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 34
             },
             "author": "Matt Novak",
             "title": "U.S. Dockworkers End Strike Over Automation in Temporary Agreement",
@@ -745,8 +446,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 35
             },
             "author": "Ed Cara",
             "title": "U.S. Faces Critical IV Fluid Shortage",
@@ -758,21 +459,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gordon Jackson",
-            "title": "The Russo Brothers’ New Sci-Fi Movie Sounds Electrifyingly Weird",
-            "description": "For starters: Mr. Peanut is the lead villain of The Electric State, which also stars Chris Pratt and Millie Bobby Brown and is coming to Netflix next year.",
-            "url": "https://gizmodo.com/the-russo-brothers-new-sci-fi-movie-sounds-electrifyingly-weird-2000505775",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/electric-state-russo-brothers-millie-bobby-brown.jpg",
-            "publishedAt": "2024-10-01T19:45:46Z",
-            "content": "A new Vanity Fair article detailing the specifics of Joe and Anthony Russo‘s post-apocalyptic action film The Electric State reveals our first look at its baffling central antagonist: an animatronic … [+3203 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 36
             },
             "author": "Germain Lussier",
             "title": "We Heard a Juicy Rumor About That Secret Predator Movie",
@@ -784,8 +472,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 37
             },
             "author": "Germain Lussier",
             "title": "2 New Predator Movies Are Coming in 2025",
@@ -797,21 +485,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "A Stalled Waymo Blocked Kamala Harris’s Motorcade in San Francisco",
-            "description": "One of the self-driving cars pooped out at an intersection near the presidential candidate's hotel.",
-            "url": "https://gizmodo.com/a-stalled-waymo-blocked-kamala-harriss-motorcade-in-san-francisco-2000505116",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/A-Waymo-on-Steiner-Street-in-San-Francisco.jpg",
-            "publishedAt": "2024-10-01T12:55:00Z",
-            "content": "In what weirdly feels like a hostile gesture from the tech industry itself, a Waymo robotaxi stalled out in front of Vice President Kamala Harris’ motorcade in San Francisco on Friday night.\r\nHarris … [+2742 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 38
             },
             "author": "Matthew Gault",
             "title": "Turkish Aerospace Company Attacked by Gunmen, Four Dead and 14 Wounded",
@@ -823,8 +498,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 39
             },
             "author": "Harri Weber",
             "title": "Supreme Court Snubs Martin Shkreli’s Last-Ditch Bid to Avoid $64 Million Fine",
@@ -836,21 +511,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "How to Watch the Vance-Walz VP Debate, No Cable Required",
-            "description": "JD Vance (weird guy) and Tim Walz (the guy who calls him a weird guy) will debate tonight in New York at 9 p.m. ET / 6 p.m. PT.",
-            "url": "https://gizmodo.com/how-to-watch-the-vance-walz-vp-debate-no-cable-required-2000505408",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/vance-walz-debate-getty.jpg",
-            "publishedAt": "2024-10-01T11:31:51Z",
-            "content": "Vice presidential candidates Tim Walz and JD Vance square off Tuesday night in their first and only debate of the 2024 presidential election. While VPs typically don’t swing many voters one way or an… [+6124 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 40
             },
             "author": "Matt Novak",
             "title": "Donald Trump’s iPhone Wallpaper Is Just a Photo of Himself",
@@ -862,8 +524,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 41
             },
             "author": "Matt Novak",
             "title": "Elon Musk Says He Might Get Thrown in Jail If Trump Doesn’t Win",
@@ -875,8 +537,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 42
             },
             "author": "Lucas Ropek",
             "title": "Justice Department Says It Has Received Complaints About Elon Musk’s $1 Million Payments to Voters",
@@ -888,8 +550,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 43
             },
             "author": "Tom Maxwell",
             "title": "Jeff Bezos Reportedly Stops Washington Post From Making a Presidential Endorsement",
@@ -901,8 +563,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 44
             },
             "author": "Isaiah Colbert",
             "title": "Toho Animation Acquires Gkids and Aims to Bring More Japanese Media to the U.S.",
@@ -914,8 +576,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 45
             },
             "author": "Matt Novak",
             "title": "MAGA Election Official Sentenced to 9 Years for Giving Trump Goons Access to Voting Data",
@@ -927,8 +589,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 46
             },
             "author": "Lucas Ropek",
             "title": "Google Searches for Comedian Who Told Racist Jokes at Trump Rally Surpass Taylor Swift",
@@ -940,8 +602,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 47
             },
             "author": "Germain Lussier",
             "title": "Disney Replaces Blade on Release Schedule with New Predator Movie",
@@ -953,8 +615,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 48
             },
             "author": "Passant Rabie",
             "title": "SpaceX’s Dragon Capsule Can Now Land Like a Rocket in Case of an Emergency",
@@ -966,8 +628,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 49
             },
             "author": "Matthew Gault",
             "title": "Elon Musk Leaps Into the Meme History Books at Trump Rally",
@@ -979,21 +641,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Lucas Ropek",
-            "title": "Liberal Watchdog Group Is Considering Buying Alex Jones’s InfoWars",
-            "description": "Who will own Alex Jones' notorious conspiracy theory show?",
-            "url": "https://gizmodo.com/liberal-watchdog-group-is-considering-buying-alex-joness-infowars-2000505434",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/Alex-Jones-speaks-to-reporters-outside-a-courthouse-in-Connecticut.jpg",
-            "publishedAt": "2024-10-01T15:55:11Z",
-            "content": "Alex Jones’ prized possession, his conspiracy-theory-addled show InfoWars, is set to be sold for scrap. Interestingly enough, some of the people who are interested in buying the site could accurately… [+2482 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 50
             },
             "author": "Matthew Gault",
             "title": "Russian TV Stations Down After Hackers Send Putin a Birthday Present",
@@ -1005,8 +654,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 51
             },
             "author": "Tom Maxwell",
             "title": "Elon Musk Appears to Have Stopped His $1 Million Voter Giveaway",
@@ -1018,8 +667,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 52
             },
             "author": "Matt Novak",
             "title": "Trump Supporters’ Fake Stories About Harris and Walz Flood the ‘For You’ Page on X",
@@ -1031,8 +680,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 53
             },
             "author": "Matt Novak",
             "title": "Elon Musk Donates $75 Million to His Own Pro-Trump Group",
@@ -1044,8 +693,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 54
             },
             "author": "Joseph Winters, Grist",
             "title": "Amazon Finally Ditches Plastic Air Pillows, but Environmentalists Say It’s Not Enough",
@@ -1057,21 +706,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "U.S. Dockworkers Go on Strike Over Robots and Wages",
-            "description": "\"I will cripple you and you have no idea what that means. Nobody does.\"",
-            "url": "https://gizmodo.com/u-s-dockworkers-go-on-strike-over-robots-and-wages-2000505620",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2175876881.jpg",
-            "publishedAt": "2024-10-01T14:41:33Z",
-            "content": "The people who move goods from ship to shore are on strike along Americas east coast. For the first time since 1977, the 47,000 members of the International Longshoremen’s Association(ILA) are walkin… [+3083 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 55
             },
             "author": "Passant Rabie",
             "title": "The Astronaut Wears Prada: Axiom Reveals the First Lunar Spacesuits Since Apollo",
@@ -1083,21 +719,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "‘I’m a Propagandist’: Palmer Luckey on the Future of Warfare",
-            "description": "In an hour long interview with Pepperdine University, the weapons merchant outlined his vision of the world.",
-            "url": "https://gizmodo.com/im-a-propagandist-palmer-luckey-on-the-future-of-warfare-2000506276",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/LuckeyPepperdine.jpg",
-            "publishedAt": "2024-10-02T15:50:41Z",
-            "content": "On Tuesday, Pepperdine University livestreamed a conversation between billionaire weapons merchant Palmer Luckey and university president Jim Gash. It began with a trailer for Anduril, Luckeys defens… [+3518 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 56
             },
             "author": "Germain Lussier",
             "title": "Universal Studios’ Epic New Theme Park Finally Has an Opening Date",
@@ -1109,8 +732,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 57
             },
             "author": "Isaiah Colbert",
             "title": "Yeah, Mattel Really Is Trying to Make a View-Master Movie",
@@ -1122,8 +745,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 58
             },
             "author": "Lucas Ropek",
             "title": "Kamala Harris Might Keep Lina Khan at the FTC, After All",
@@ -1135,8 +758,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 59
             },
             "author": "Kyle Barr",
             "title": "An ‘Exciting Week’ of Apple News Will Likely Bring Us the Rumored M4 MacBook",
@@ -1148,47 +771,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Tom Maxwell",
-            "title": "Congressman Refuses to Debate, so His Opponent Is Using an AI Stand-In",
-            "description": "Sitting congressman Don Beyer won’t bother debating Bentley Hensel, a long-shot independent candidate, so Hensel made an AI version of Beyer to debate instead.",
-            "url": "https://gizmodo.com/congressman-refuses-to-debate-so-his-opponent-is-using-an-ai-stand-in-2000509810",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-1494878652.jpg",
-            "publishedAt": "2024-10-09T15:05:47Z",
-            "content": "Lets say you want to make a long-shot run for Congress as an independent in a deeply Democratic district of Virginia, but the incumbent in the race wont give you airtime to debate your platform in fr… [+3125 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Most People Actually Aren’t That Into Ozempic, Survey Finds",
-            "description": "A new survey shows that most people would rather try dieting to lose weight than take the latest injectable drugs like Ozempic.",
-            "url": "https://gizmodo.com/most-people-actually-arent-that-into-ozempic-survey-finds-2000509230",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Ozempic-pen.jpg",
-            "publishedAt": "2024-10-08T19:50:18Z",
-            "content": "Ozempic and similar drugs are having a cultural moment right now, but it appears that plenty of people aren’t on board. National survey data released this week suggests that a majority of Americans a… [+3032 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Kyle Barr",
-            "title": "Microsoft Is One Step Closer to Opening an Actual Xbox App Store on Android",
-            "description": "Xbox is currently one of the few companies that doesn't let you buy games on its app, but the recent Epic v. Google decision is giving its plans for a mobile store a shot in the arm.",
-            "url": "https://gizmodo.com/microsoft-is-one-step-closer-to-opening-an-actual-xbox-app-store-on-android-2000510988",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Samsung-Galaxy-S24-Xbox-App.jpg",
-            "publishedAt": "2024-10-11T14:45:59Z",
-            "content": "After Epic Games, Xbox plans to be the next big app seller to break free of Googles shackles. Microsoft’s gaming arm announced on Twitter that it would allow Android users to purchase games for their… [+3339 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 60
             },
             "author": "Matthew Gault",
             "title": "Trump Spends 39 Minutes on Stage Listening to His Beloved Spotify Playlist",
@@ -1200,21 +784,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "Musk Screams at Trump Rally as Philly DA Sues to Stop $1 Million Voter Giveaway",
-            "description": "The lawsuit is the first official legal action against the billionaire's election lottery scheme.",
-            "url": "https://gizmodo.com/musk-screams-at-trump-rally-as-philly-da-sues-to-stop-1-million-voter-giveaway-2000517357",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskScream.jpg",
-            "publishedAt": "2024-10-28T15:55:28Z",
-            "content": "On Sunday night, billionaire Elon Musk did two pathetic little Dean Screams for a crowd of MAGA voters in Madison Square Garden. On Monday morning, Philadelphia District Attorney Larry Krasner filed … [+2631 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 61
             },
             "author": "Gordon Jackson",
             "title": "Amazon Scraps Its God Of War Series",
@@ -1226,8 +797,60 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 62
+            },
+            "author": "Kyle Barr",
+            "title": "Microsoft Is One Step Closer to Opening an Actual Xbox App Store on Android",
+            "description": "Xbox is currently one of the few companies that doesn't let you buy games on its app, but the recent Epic v. Google decision is giving its plans for a mobile store a shot in the arm.",
+            "url": "https://gizmodo.com/microsoft-is-one-step-closer-to-opening-an-actual-xbox-app-store-on-android-2000510988",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Samsung-Galaxy-S24-Xbox-App.jpg",
+            "publishedAt": "2024-10-11T14:45:59Z",
+            "content": "After Epic Games, Xbox plans to be the next big app seller to break free of Googles shackles. Microsoft’s gaming arm announced on Twitter that it would allow Android users to purchase games for their… [+3339 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 63
+            },
+            "author": "Tom Maxwell",
+            "title": "Congressman Refuses to Debate, so His Opponent Is Using an AI Stand-In",
+            "description": "Sitting congressman Don Beyer won’t bother debating Bentley Hensel, a long-shot independent candidate, so Hensel made an AI version of Beyer to debate instead.",
+            "url": "https://gizmodo.com/congressman-refuses-to-debate-so-his-opponent-is-using-an-ai-stand-in-2000509810",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-1494878652.jpg",
+            "publishedAt": "2024-10-09T15:05:47Z",
+            "content": "Lets say you want to make a long-shot run for Congress as an independent in a deeply Democratic district of Virginia, but the incumbent in the race wont give you airtime to debate your platform in fr… [+3125 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 64
+            },
+            "author": "Ed Cara",
+            "title": "Most People Actually Aren’t That Into Ozempic, Survey Finds",
+            "description": "A new survey shows that most people would rather try dieting to lose weight than take the latest injectable drugs like Ozempic.",
+            "url": "https://gizmodo.com/most-people-actually-arent-that-into-ozempic-survey-finds-2000509230",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Ozempic-pen.jpg",
+            "publishedAt": "2024-10-08T19:50:18Z",
+            "content": "Ozempic and similar drugs are having a cultural moment right now, but it appears that plenty of people aren’t on board. National survey data released this week suggests that a majority of Americans a… [+3032 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 65
+            },
+            "author": "Matthew Gault",
+            "title": "Musk Screams at Trump Rally as Philly DA Sues to Stop $1 Million Voter Giveaway",
+            "description": "The lawsuit is the first official legal action against the billionaire's election lottery scheme.",
+            "url": "https://gizmodo.com/musk-screams-at-trump-rally-as-philly-da-sues-to-stop-1-million-voter-giveaway-2000517357",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/MuskScream.jpg",
+            "publishedAt": "2024-10-28T15:55:28Z",
+            "content": "On Sunday night, billionaire Elon Musk did two pathetic little Dean Screams for a crowd of MAGA voters in Madison Square Garden. On Monday morning, Philadelphia District Attorney Larry Krasner filed … [+2631 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 66
             },
             "author": "Matt Novak",
             "title": "Elon Musk Hilariously Claims Tesla Cybercab Will Be Available In 2-3 Years",
@@ -1239,8 +862,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 67
             },
             "author": "Matthew Gault",
             "title": "The Federal Government Is Too Broke and Stupid for the AI Revolution",
@@ -1252,8 +875,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 68
             },
             "author": "Cheryl Eddy",
             "title": "What We Do in the Shadows‘ Kayvan Novak on ‘Nandermo’ in Season 6",
@@ -1265,8 +888,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 69
             },
             "author": "Lucas Ropek",
             "title": "Elon Tempts Fate With Dominion Voting Conspiracy Theory",
@@ -1278,8 +901,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 70
             },
             "author": "Matt Novak",
             "title": "Why Are Trump Supporters Suddenly Freaked Out About Deepfakes?",
@@ -1291,16 +914,237 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 71
+            },
+            "author": "Lucas Ropek",
+            "title": "Elon Musk Keeps Saying Trump Will Tank the Economy",
+            "description": "A strange tactic to take a week before an election, to say the least.",
+            "url": "https://gizmodo.com/elon-musk-keeps-saying-trump-will-tank-the-economy-2000518006",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Elon-Musk-speaks-at-Trumps-Madison-Square-Garden-rally.jpg",
+            "publishedAt": "2024-10-29T22:30:44Z",
+            "content": "Top economists and assorted financial experts have been sounding the alarm that Donald Trump’s plans for a second presidential administration would spike the federal deficit by trillions of dollars, … [+6386 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 72
             },
             "author": "Matt Novak",
-            "title": "Julian Assange Says He’s Still Getting Used to the ‘Spooky Sound of Electric Cars’",
-            "description": "The WikiLeaks co-founder's wife turned off his microphone after a crack about his mother-in-law.",
-            "url": "https://gizmodo.com/julian-assange-says-hes-still-getting-used-to-the-spooky-sound-of-electric-cars-2000505751",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/julian-assange-strasbourg-france-testimony.jpg",
-            "publishedAt": "2024-10-01T19:50:44Z",
-            "content": "Julian Assange spoke to European lawmakers in France on Tuesday in his first public testimony since being released from a British prison in June. The WikiLeaks co-founder took a plea deal rather than… [+7814 chars]"
+            "title": "Elon Musk’s Robot Tricks Were Used on Soviets in the 1950s Too",
+            "description": "An American tech fair in Moscow during the Cold War featured a robot vacuum secretly operated by remote control.",
+            "url": "https://gizmodo.com/elon-musks-robot-tricks-were-used-on-soviets-in-the-1950s-too-2000511120",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/1950s-roomba-crop.jpg",
+            "publishedAt": "2024-10-11T19:00:03Z",
+            "content": "Elon Musk was showered with praise on social media during his big robotaxi unveiling on Thursday, even if the Tesla CEO’s Cybercab is still just a prototype that may never get released. But it was Mu… [+6856 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 73
+            },
+            "author": "Germain Lussier",
+            "title": "32 Fascinating Facts We Learned From the Deadpool & Wolverine Commentary",
+            "description": "Marvel Studios' R-rated hit starring Ryan Reynolds and Hugh Jackman is now available at home.",
+            "url": "https://gizmodo.com/deadpool-and-wolverine-commentary-ryan-reynolds-levy-2000507752",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Deadpool-Wolverine-4k.jpg",
+            "publishedAt": "2024-10-07T17:10:22Z",
+            "content": "This could’ve been much, much longer. As I rewatched Deadpool &amp; Wolverine with commentary from star Ryan Reynolds and director Shawn Levy, I never stopped taking notes. The pair had so much to sa… [+9746 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 74
+            },
+            "author": "Matt Novak",
+            "title": "The Most Shocking Images of Hurricane Milton Damage So Far",
+            "description": "Severe weather in Florida has killed at least 10 people.",
+            "url": "https://gizmodo.com/the-most-shocking-images-of-hurricane-milton-damage-so-far-2000510597",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/Tropicana-Field-getty.jpg",
+            "publishedAt": "2024-10-10T20:30:50Z",
+            "content": "Hurricane Milton made landfall with the eastern coast of Florida on Wednesday night as a Category 3 storm, wiping out power for about 3 million people and bringing devastating wind and rain. Tornadoe… [+8549 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 75
+            },
+            "author": "Matt Novak",
+            "title": "Trump Fans Go Viral With Bizarre Conspiracy Theories About Hurricane Milton",
+            "description": "The website formerly known as Twitter is a hotbed of far-right disinformation on the category 5 storm.",
+            "url": "https://gizmodo.com/trump-fans-go-viral-with-bizarre-conspiracy-theories-about-hurricane-milton-2000508360",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/treasure-island-hurricane-milton-upside-down-flag-oct-7-2024.jpg",
+            "publishedAt": "2024-10-07T19:10:30Z",
+            "content": "Hurricane Milton became a category 5 storm on Monday and is on track to hit the west coast of Florida on Wednesday afternoon or evening. The hurricane is unusual for both its trajectory and rapid int… [+8402 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 76
+            },
+            "author": "Colin Lecher and Tomas Apodaca",
+            "title": "How Meta Brings in Millions Off of Political Violence",
+            "description": "CalMatters and The Markup used Facebook’s AI model to count the millions of dollars it makes after violent news events.",
+            "url": "https://gizmodo.com/how-meta-brings-in-millions-off-of-political-violence-2000511364",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2170596427.jpg",
+            "publishedAt": "2024-10-14T14:30:40Z",
+            "content": "After the attempted assassination of Donald Trump in July, the merchandise started showing up on Facebook.\r\nTrump, fist in the air, face bloodied from a bullet, appeared on everything. Coffee mugs. H… [+13056 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 77
+            },
+            "author": "Matt Novak",
+            "title": "Truth Social Users Are Losing Ridiculous Sums of Money to Scams",
+            "description": "Read the complaints submitted to the FTC by users of Donald Trump's social media platform.",
+            "url": "https://gizmodo.com/truth-social-users-are-losing-ridiculous-sums-of-money-to-scams-2000506604",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/donald-trump-october-3-2024.jpg",
+            "publishedAt": "2024-10-05T13:00:34Z",
+            "content": "Donald Trump launched Truth Social in 2022 as a social media platform where the MAGA faithful could hang out without any liberals to spoil the fun. The biggest selling point? It was the only place wh… [+30292 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 78
+            },
+            "author": null,
+            "title": "Tunisia's president seeks new term with one candidate in jail",
+            "description": "President Kais Saied, accused of suppressing democracy, only has two challengers and one is in jail.",
+            "url": "https://www.bbc.com/news/articles/cj9jwxxejkvo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bfbf/live/87445600-8189-11ef-98f4-8f408a3dba7c.jpg",
+            "publishedAt": "2024-10-06T02:31:06Z",
+            "content": "Tunisia's President Kais Saied, seen as a saviour by supporters and an autocrat by critics, is running for re-election on Sunday in a vote that he is all but certain to win.\r\nMore than a dozen politi… [+5923 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 79
+            },
+            "author": null,
+            "title": "President tells Georgians to show the world where they stand on 'rigged vote'",
+            "description": "Salome Zourabichivili has called Georgians out on the streets, telling the BBC this is a \"crucial moment\".",
+            "url": "https://www.bbc.com/news/articles/cjr424zwv2po",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4654/live/204e9d10-952b-11ef-8e6d-e3e64e16c628.jpg",
+            "publishedAt": "2024-10-28T14:54:20Z",
+            "content": "Georgian president calls for protest against vote 'falsification'\r\nGeorgia's pro-Western president has appealed to the international community to stand behind her country's population after a dispute… [+4701 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 80
+            },
+            "author": null,
+            "title": "British man, 71, dies after being rescued from Spain floods",
+            "description": "The president of the Andalusian government says the man suffered \"several\" heart attacks.",
+            "url": "https://www.bbc.com/news/articles/cj9n1zdvkyzo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d2f0/live/510a1d90-9750-11ef-9260-19e6a950e830.jpg",
+            "publishedAt": "2024-10-31T08:03:15Z",
+            "content": "A British man has died hours after being rescued from his home on the outskirts of Málaga, Spain, after intense flooding hit parts of the country, local officials say.\r\nThe 71-year-old - who has not … [+2152 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 81
+            },
+            "author": null,
+            "title": "Iran leader says Israeli attack should not be 'exaggerated or downplayed'",
+            "description": "Ayatollah Ali Khamenei refrained from pledging immediate retaliation while President Masoud Pezeshkian said Tehran did not seek war.",
+            "url": "https://www.bbc.com/news/articles/ced99eznje9o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/517f/live/b07edff0-9489-11ef-8e6d-e3e64e16c628.jpg",
+            "publishedAt": "2024-10-27T18:11:05Z",
+            "content": "Iran's Supreme Leader Ali Khamenei has given a measured response to Israeli strikes on the country, saying the attack should not be \"exaggerated or downplayed\" while refraining from pledging immediat… [+3428 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 82
+            },
+            "author": null,
+            "title": "Moldova's pro-EU leader in tight run-off as Russia denies meddling",
+            "description": "President Maia Sandu is in a race seen as a choice between Europe and a return to Russian influence.",
+            "url": "https://www.bbc.com/news/articles/cq6lyzj9dddo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/73b9/live/e50569e0-9869-11ef-94ac-ef444091525a.jpg",
+            "publishedAt": "2024-11-03T00:33:18Z",
+            "content": "Although Maia Sandu was well ahead after the first round, her rival has the support of several other candidates\r\nMoldovans are going to the polls on Sunday in the second round run-off of a presidenti… [+3229 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 83
+            },
+            "author": null,
+            "title": "Nato says North Korean troops deployed to Russia's Kursk region",
+            "description": "Mark Rutte said the deployment represented a \"dangerous expansion\" of Russia's war in Ukraine.",
+            "url": "https://www.bbc.com/news/articles/cyv737vy376o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/cc84/live/7cbaf740-951e-11ef-9cde-517ea4c35d17.jpg",
+            "publishedAt": "2024-10-28T11:35:12Z",
+            "content": "North Korean troops have been deployed to Russia and are operating in the Kursk border region where Ukrainian troops have a foothold, Nato has said for the first time. \r\nThe alliance's Secretary Gene… [+1418 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 84
+            },
+            "author": null,
+            "title": "Moment extreme turbulence hits hurricane hunters",
+            "description": "NOAA crew members were shaken as their plane made its way through Hurricane Milton on Tuesday.",
+            "url": "https://www.bbc.com/news/videos/cwyl62yp51ro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5afc/live/9dd43be0-85c8-11ef-9329-f30486eb2a33.jpg",
+            "publishedAt": "2024-10-08T23:12:32Z",
+            "content": "Hurricane hunters from the National Oceanic and Atmospheric Association (NOAA) experienced extreme turbulence as they flew through Hurricane Milton on Tuesday. \r\nVideo from aboard the flight shows it… [+243 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 85
+            },
+            "author": null,
+            "title": "London's Elizabeth line wins top architecture prize",
+            "description": "The Stirling Prize is normally awarded to a new building, but has gone to the entire train line.",
+            "url": "https://www.bbc.com/news/articles/c89lj77wgzeo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/b106/live/47e70fe0-8bc8-11ef-81f8-1f28bcc5be15.jpg",
+            "publishedAt": "2024-10-16T21:11:54Z",
+            "content": "Judges said the Elizabeth line \"sets a bold new standard for civic infrastructure\"\r\nThe Elizabeth line, London's newest train line, has been awarded the UK's most prestigious architecture prize.\r\nThe… [+3107 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 86
+            },
+            "author": null,
+            "title": "Russian cash-for-votes flows into Moldova as nation heads to polls",
+            "description": "Sunday's presidential election is seen as a vote on whether the country looks east to Russia or west to the EU.",
+            "url": "https://www.bbc.com/news/articles/c23kdjxxx1jo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4e8d/live/6682e9a0-8e53-11ef-b3c2-754b6219680e.jpg",
+            "publishedAt": "2024-10-19T19:26:42Z",
+            "content": "Ilan Shor - pictured here while running for election in 2019 - fled the country before being sentenced in absentia for money laundering and embezzlement\r\nThe sniffer dogs at Chisinau Airport have bee… [+9175 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 87
+            },
+            "author": null,
+            "title": "How this US election could change state of the world",
+            "description": "Our chief international correspondent Lyse Doucet hears from leading experts about what's at stake ahead of the vote.",
+            "url": "https://www.bbc.com/news/articles/cgl490zrz45o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/a328/live/7c605350-954e-11ef-89ae-5575c76d98e6.png",
+            "publishedAt": "2024-10-29T12:07:29Z",
+            "content": "When US President Joe Biden walked through Kyiv in February 2023 on a surprise visit to show solidarity with Volodymyr Zelensky, his Ukrainian counterpart, air sirens were wailing. I felt something m… [+10412 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 88
+            },
+            "author": null,
+            "title": "Seven takeaways from Trump's interview with Joe Rogan",
+            "description": "Trump discusses the “biggest mistake” of his presidency, what he told North Korea’s leader and life in space.",
+            "url": "https://www.bbc.com/news/articles/cy8nn0913e8o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3d91/live/1b3c6bd0-93ab-11ef-89ae-5575c76d98e6.jpg",
+            "publishedAt": "2024-10-26T15:10:30Z",
+            "content": "Republican presidential nominee Donald Trumps three-hour interview with Americas number one podcaster, Joe Rogan, has been released.\r\nIn the wide-ranging sit-down, the former president discusses ever… [+6392 chars]"
         }
     ]
 }

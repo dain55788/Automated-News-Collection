@@ -1,232 +1,11 @@
 {
     "status": "ok",
-    "totalResults": 61778,
+    "totalResults": 58793,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-22T17:00:11Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-25T20:42:41Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-31T17:30:49Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T17:30:14Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Sarah Fielding",
-            "title": "The Apple Watch Series 10 is $30 off right now",
-            "description": "If you've been looking to upgrade your smartwatch, now might be the right time. Our favorite smartwatch, the Apple Watch Series 10, is currently on sale with the 42mm model down to $370 from $399 in Jet Black. The 46mm model is down to $399 from $429 and avai…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f526221b-5734-4c33-a38f-ebd9034bb694",
-            "urlToImage": null,
-            "publishedAt": "2024-10-24T13:30:27Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Lawrence Bonk",
-            "title": "The third-gen Oura Ring is up to $100 off in this early Prime Day deal",
-            "description": "Amazon Prime Day is right around the corner, so the deals are already coming in hot. For instance, the Oura Ring is up to $100 off. The discount depends on which design you go for. The Stealth Horizon design is $350 in all sizes, while many standard colors ar…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_42643582-3182-4984-bec6-3aac406fa1dc",
-            "urlToImage": null,
-            "publishedAt": "2024-10-04T18:49:04Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-17T19:20:30Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T11:15:40Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-31T13:15:01Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-16T09:00:38Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T17:21:09Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T19:10:25Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Mariella Moon",
-            "title": "TikTok is reportedly aware of its bad effects on teen users",
-            "description": "TikTok's executives and employees were well aware that its features foster compulsive use of the app, as well as of its corresponding negative mental health effects, according to NPR. The broadcasting organization reviewed the unredacted documents from the la…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e776b0a0-f818-482c-ab80-177bbaa288b8",
-            "urlToImage": null,
-            "publishedAt": "2024-10-12T15:00:30Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Kris Holt",
-            "title": "Machine learning pioneers, including the 'Godfather of AI,' are awarded the Nobel Prize in Physics",
-            "description": "Two scientists have been awarded\r\n the Nobel Prize in Physics “for foundational discoveries and inventions that enable machine learning\r\n with artificial neural networks.” John Hopfield, an emeritus professor of Princeton University, devised an associative me…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6520a371-80be-4f58-afc3-cdc8b7ee93c5",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T13:21:24Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T11:17:12Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Will Shanklin",
-            "title": "Everything Apple announced during its unofficial Mac Week",
-            "description": "Following the illustrious line of calendar-spanning corporate events like Lobsterfest and Shark Week, Apple tried something new this year with a celebration unofficially known as Mac Week. (Fortunately for Apple, it just so happens to coincide with its earnin…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c32e977d-97fc-463b-bc24-4576a92cbe19",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T21:01:15Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Adrienne So",
-            "title": "Oura Ring 4: Specs, Price, Features, Availability",
-            "description": "Oura’s update to its category-defining smart ring will be smaller, smarter, and add even more women’s health features.",
-            "url": "https://www.wired.com/story/oura-ring-4-price-specs-features/",
-            "urlToImage": "",
-            "publishedAt": "2024-10-03T07:00:00Z",
-            "content": "In the years since Oura launched its first smart ring, the category has exploded. There is a huge appetite for a fitness tracker that is sensitive and accurate, doesnt have a screen, and also lets yo… [+3428 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 1
             },
             "author": "Leslie Hart, Miranda Dziobak",
             "title": "Dolphins Are Exhaling Microplastics",
@@ -238,8 +17,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 2
             },
             "author": "Emily Mullin",
             "title": "The US Is Loading Up on Bird Flu Vaccine",
@@ -251,8 +30,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 3
             },
             "author": "Kristin Canning",
             "title": "7 Best Bug Sprays We Tested and Reviewed",
@@ -264,8 +43,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 4
             },
             "author": "Simon Hill, Gear Team",
             "title": "28 Best Early Amazon Prime Day Deals On Gear We've Tested (October 2024)",
@@ -277,8 +56,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 5
             },
             "author": "Benj Edwards, Ars Technica",
             "title": "OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway",
@@ -290,8 +69,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 6
             },
             "author": "David Gilbert",
             "title": "Inside the Anti-Vax Facebook Group Pushing a Bogus Cure for Autism",
@@ -303,34 +82,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Tommy Greene",
-            "title": "Hurricane Helene Will Send Shockwaves Through the Semiconductor Industry",
-            "description": "Downpours at Spruce Pine, North Carolina have taken the biggest known deposit of high-purity quartz offline, leaving the global tech supply chain potentially starved of an ingredient vital for making microchips.",
-            "url": "https://www.wired.com/story/hurricane-helene-shockwaves-semiconductor-industry-microchips-spruce-pine-north-carolina-sand-high-quality-quartz/",
-            "urlToImage": "https://media.wired.com/photos/66fb1e03c80e335f6471a5f5/191:100/w_1280,c_limit/science_hurricane_helene_silicon_tech.jpg",
-            "publishedAt": "2024-10-01T11:48:00Z",
-            "content": "A spokesperson for Sibelco said: As of September 26th, we have temporarily halted operations at the Spruce Pine facilities in response to these challenges.\r\nWe are working closely with our local team… [+3757 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Reece Rogers, Lauren Goode",
-            "title": "How to Generate an AI Podcast Using Google's NotebookLM",
-            "description": "A little-known AI notebook tool from Google is going viral for its Audio Overviews that mimic the speech cadence of podcasters. Here’s how to try it out.",
-            "url": "https://www.wired.com/story/ai-podcast-google-notebooklm/",
-            "urlToImage": "https://media.wired.com/photos/66fc3d07a843e26bad9e73d0/191:100/w_1280,c_limit/NotebookLM-AI-Generated%20Podcasts-Business-Comp%201.jpg",
-            "publishedAt": "2024-10-02T14:50:36Z",
-            "content": "Two podcasts hosts banter back and forth during the final episode of their series, audibly anxious to share some distressing news with listeners. We were, uh, informed by the show's producers that we… [+4053 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 7
             },
             "author": "Umar Shakir",
             "title": "UnitedHealth data breach leaked info on over 100 million people",
@@ -342,8 +95,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 8
             },
             "author": "Victoria Song",
             "title": "The Oura Ring Gen 3 is 20 percent off",
@@ -355,8 +108,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 9
             },
             "author": "Sheena Vasani",
             "title": "Kids with Android phones will be able to use Google Wallet tap-to-pay soon",
@@ -368,8 +121,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 10
             },
             "author": "Chris Welch",
             "title": "A closer look at Nintendo’s adorable Alarmo clock",
@@ -381,8 +134,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 11
             },
             "author": "Victoria Song",
             "title": "Ozlo Sleepbuds hands-on: resurrected and I’ve slept so good",
@@ -394,8 +147,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 12
             },
             "author": "Jennifer Pattison Tuohy",
             "title": "How to send messages via satellite on your iPhone or Pixel",
@@ -407,21 +160,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Gaby Del Valle",
-            "title": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight",
-            "description": "During the vice presidential debate, JD Vance followed his weirdest, most viral falsehood with a litany of banal lies about immigration, asylum, deportation, and more.",
-            "url": "https://www.theverge.com/2024/10/1/24259985/jd-vance-immigration-lies-vice-presidential-debate",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/vJombjrF47qQ0LbnLurQoTPlxQc=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651220/STK206_STK204_JD_VANCE_TIM_WALZ_A.jpg",
-            "publishedAt": "2024-10-02T03:57:06Z",
-            "content": "The Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\nThe Springfield pet-eating hoax was not the only immigration lie Vance spouted tonight\r\n / Vance blamed migrant… [+7066 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 13
             },
             "author": "Joanna Nelius",
             "title": "Melodrama!",
@@ -433,8 +173,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 14
             },
             "author": "Dua Rashid",
             "title": "The AirPods Pro 2 Finally Receive Its Hearing Health Features",
@@ -446,8 +186,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 15
             },
             "author": "Dua Rashid",
             "title": "This Toilet Seat Has a Camera for Taking Pictures of Your Poop",
@@ -459,8 +199,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 16
             },
             "author": "Ed Cara",
             "title": "‘Flesh-Eating’ Bacteria Surge in Florida Floodwaters After Back-to-Back Hurricanes",
@@ -472,8 +212,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 17
             },
             "author": "Adam Kovac",
             "title": "Why the Batteries in Your Body’s Cells Only Come From Mom and Why It Matters",
@@ -485,8 +225,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 18
             },
             "author": "Brittany Vincent",
             "title": "The Galaxy Watch 6 Is at a Record-Breaking Low Price, Skip Black Friday Crowds",
@@ -498,8 +238,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 19
             },
             "author": "Ed Cara",
             "title": "The Less Sugar We Get as Babies, the Better Our Health Is Decades Later",
@@ -511,8 +251,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 20
             },
             "author": "Gizmodo Deals",
             "title": "Amazon Cares About Your Health, It’s Selling Blueair Air Purifiers at 46% Off",
@@ -524,8 +264,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 21
             },
             "author": "Gizmodo Deals",
             "title": "To Protect Your Health, The Blueair Air Purifier Is Now Available At 46% Off For Prime Day",
@@ -537,8 +277,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 22
             },
             "author": "Ed Cara",
             "title": "Fluoride in Our Drinking Water May Not Be as Useful as It Used to Be",
@@ -550,8 +290,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 23
             },
             "author": "Gizmodo Deals",
             "title": "Kim Kardashian’s Favorite Smart Ring is Now on Sale on Amazon—Grab It Before Prime Day",
@@ -563,8 +303,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 24
             },
             "author": "Brittany Vincent",
             "title": "Smartwatch Out and Oura Ring In for $100 Off at Amazon",
@@ -576,21 +316,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matt Novak",
-            "title": "Covid Testing Lab Owner Pleads Guilty to Giving Fake Test Results",
-            "description": "Zishan Alvi bought at least five luxury cars with the money from his scheme.",
-            "url": "https://gizmodo.com/covid-testing-lab-owner-pleads-guilty-to-giving-fake-test-results-2000506076",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/covid-tests-getty.jpg",
-            "publishedAt": "2024-10-02T12:45:27Z",
-            "content": "Zishan Alvi, the owner of a medical testing laboratory in Chicago, pleaded guilty to one count of wire fraud on Monday, according to a press release from the U.S. Department of Justice. Alvi’s facili… [+2613 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 25
             },
             "author": "Ed Cara",
             "title": "Want to Know How Well You’re Aging? Try Standing on One Leg",
@@ -602,8 +329,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 26
             },
             "author": "Ed Cara",
             "title": "Ozempic Could Be Lifesaving for Thousands of Americans a Year, Study Finds",
@@ -615,8 +342,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 27
             },
             "author": "Ed Cara",
             "title": "Bird Flu Outbreak Kills Dozens of Tigers and Other Big Cats at Vietnam Zoos",
@@ -628,8 +355,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 28
             },
             "author": "Ed Cara",
             "title": "High Blood Pressure Reading? You Might Have Been Holding Your Arm Wrong",
@@ -641,8 +368,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 29
             },
             "author": "Ed Cara",
             "title": "Human Lifespan May Have a Hard Ceiling, Research Suggests",
@@ -654,21 +381,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Dua Rashid",
-            "title": "The Oura Ring 4 Will Show You How Much Your Daily Activities Stress You Out",
-            "description": "It's available to pre-order today for $349 and will start shipping October 15.",
-            "url": "https://gizmodo.com/the-oura-ring-4-will-show-you-how-much-your-daily-activities-stress-you-out-2000506341",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/oura-ring.jpg",
-            "publishedAt": "2024-10-03T07:00:54Z",
-            "content": "Oura announced the fourth iteration of its smart ring, the Oura Ring 4, today. It’s undergone quite a few design, comfort, and companion app changes, but the biggest breakthrough is the new Smart Sen… [+2315 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 30
             },
             "author": "Gizmodo Deals",
             "title": "Half the Price of the Apple Watch, This Samsung Galaxy Watch is 46% Off for Prime Day",
@@ -680,8 +394,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 31
             },
             "author": "Mike Fazioli",
             "title": "Samsung Galaxy Watch 6 Has Never Been Priced Lower Than $160",
@@ -693,8 +407,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 32
             },
             "author": "Todd Feathers",
             "title": "The Biden Administration Touts Its Big Year in AI",
@@ -706,8 +420,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 33
             },
             "author": "Adam Kovac",
             "title": "X-Raying Your Head Every Year at the Dentist Might Be Totally Unnecessary",
@@ -719,8 +433,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 34
             },
             "author": "Ed Cara",
             "title": "An Old Foe Dethrones Covid-19 as the World’s Leading Infectious Killer",
@@ -732,8 +446,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 35
             },
             "author": "Ed Cara",
             "title": "The Case for Ozempic as a Addiction Treatment Keeps Getting Better",
@@ -745,8 +459,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 36
             },
             "author": "Ed Cara",
             "title": "U.S. Faces Critical IV Fluid Shortage",
@@ -758,8 +472,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 37
             },
             "author": "Ed Cara",
             "title": "The Fallout Over McDonald’s E. Coli Outbreak Has Begun",
@@ -771,8 +485,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 38
             },
             "author": "Ed Cara",
             "title": "Got a Cat Vet Nightmare? We Want to Hear Your Horror Stories",
@@ -784,21 +498,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Ed Cara",
-            "title": "Invasive Ticks Carrying New Diseases Are Spreading Through the Northeast",
-            "description": "Scientists are reporting the first human case of Rickettsia parkeri bacteria in Connecticut and the greater Northeast region.",
-            "url": "https://gizmodo.com/invasive-ticks-carrying-new-diseases-are-spreading-through-the-northeast-2000505769",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/female-gulf-coast-tick.jpg",
-            "publishedAt": "2024-10-01T20:41:49Z",
-            "content": "New species of ticks are moving to the Northeastern U.S.and bringing along unfriendly visitors with them. In a recent study, scientists have reported the first human case of a particular tickborne ba… [+6371 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 39
             },
             "author": "Ed Cara",
             "title": "Get Cancer, Go Broke: Patients Often Go Bankrupt, Even With Insurance",
@@ -810,21 +511,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo Deals",
-            "title": "Better Than an Old Hard Drive, This Powerful 4TB Samsung SSD is Now 45% Off Ahead of Prime Day",
-            "description": "Looking to upgrade your storage solution? Discover the powerful 4TB Samsung T9 SSD, now available at a 45% discount just in time for Prime Day!",
-            "url": "https://gizmodo.com/better-than-an-old-hard-drive-this-powerful-4tb-samsung-ssd-is-now-45-off-ahead-of-prime-day-2000505506",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/samsung-t9.jpg",
-            "publishedAt": "2024-10-01T12:15:52Z",
-            "content": "The Samsung T9 SSD with 4TB storage is currently available at an incredible price of $299 down from its original $549 price tag, which represents a substantial 45% discount. This deal is part of the … [+2145 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 40
             },
             "author": "Joe Tilleli",
             "title": "Supercharge Your Storage with the Samsung 990 EVO SSD Up to 47% Off This Prime Day—Act Fast!",
@@ -836,8 +524,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 41
             },
             "author": "Gizmodo Deals",
             "title": "5 Times Cheaper Than a Traditional Laptop, This ASUS 14″ Chromebook is 40% Off for Prime Day",
@@ -849,8 +537,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 42
             },
             "author": "Gizmodo Deals",
             "title": "At $0.07 per GB, the Samsung T9 SSD with 4TB of Storage is the Best Deal on Day 2 of Prime Day",
@@ -862,8 +550,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 43
             },
             "author": "Gizmodo Deals",
             "title": "The New Samsung SSD is Priced at $0.07/GB With This Amazon Post-Prime Day Deal",
@@ -875,8 +563,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 44
             },
             "author": "Harri Weber",
             "title": "States Pile in on TikTok Lawsuit, Say the App Is Like ‘Digital Nicotine’",
@@ -888,8 +576,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 45
             },
             "author": "Brittany Vincent",
             "title": "Get Ready to Sparkle with 45% off a Philips Sonicare Electric Toothbrush this Prime Day",
@@ -901,8 +589,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 46
             },
             "author": "Mike Fazioli",
             "title": "Maximize Storage and Minimize Costs with Samsung’s 50% Off T7 Shield Portable SSD for Prime Day",
@@ -914,8 +602,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 47
             },
             "author": "Joe Tilleli",
             "title": "Samsung Galaxy Watch Ultra Now Only $162 with Trade-In Offers, Better Value Than Other Retailers",
@@ -927,8 +615,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 48
             },
             "author": "Matt Novak",
             "title": "CDC Says McDonald’s E. Coli Outbreak Kills 1 and Hospitalizes 10",
@@ -940,8 +628,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 49
             },
             "author": "Gizmodo Deals",
             "title": "The One and Only Ninja XL Air Fryer is on a Massive Sale on Amazon: Thank You, Prime Day!",
@@ -953,8 +641,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 50
             },
             "author": "Gizmodo Deals",
             "title": "The New Samsung SSD is Priced at $0.07/GB With This Amazon Post-Prime Day Deal",
@@ -966,8 +654,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 51
             },
             "author": "Mike Fazioli",
             "title": "The 2nd Gen Apple Watch SE Is a Prime Candidate for Deal of the Day at Just $200",
@@ -979,8 +667,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 52
             },
             "author": "Joe Tilleli",
             "title": "Headway Premium Lifetime Access for Just $45, Save Money and Time with this Best App",
@@ -992,8 +680,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 53
             },
             "author": "Gizmodo Deals",
             "title": "At $1.29 Per Month, Our Favorite Password Manager is 56% Off Ahead of Black Friday",
@@ -1005,8 +693,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 54
             },
             "author": "Joe Tilleli",
             "title": "Garmin Epix Smartwatch at Record Low Price, Cheaper Than Last Prime Day and Black Friday",
@@ -1018,8 +706,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 55
             },
             "author": "Kyle Barr",
             "title": "What to Know About Emergency Satellite on Android and iOS Before Hurricane Milton",
@@ -1031,8 +719,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 56
             },
             "author": "Kyle Barr",
             "title": "The Worst Prime Day Deals of October 2024",
@@ -1044,8 +732,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 57
             },
             "author": "Ed Cara",
             "title": "Viruses Found on Toothbrushes Are ‘Unlike Anything Seen Before’",
@@ -1057,8 +745,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 58
             },
             "author": "Ed Cara",
             "title": "Covid Vaccine Tech Is Being Used to Fight a Nasty, Diarrhea-Causing Bacteria",
@@ -1070,21 +758,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Matthew Gault",
-            "title": "U.S. Dockworkers Go on Strike Over Robots and Wages",
-            "description": "\"I will cripple you and you have no idea what that means. Nobody does.\"",
-            "url": "https://gizmodo.com/u-s-dockworkers-go-on-strike-over-robots-and-wages-2000505620",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/GettyImages-2175876881.jpg",
-            "publishedAt": "2024-10-01T14:41:33Z",
-            "content": "The people who move goods from ship to shore are on strike along Americas east coast. For the first time since 1977, the 47,000 members of the International Longshoremen’s Association(ILA) are walkin… [+3083 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 59
             },
             "author": "Passant Rabie",
             "title": "The Astronaut Wears Prada: Axiom Reveals the First Lunar Spacesuits Since Apollo",
@@ -1096,8 +771,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 60
             },
             "author": "Cheryl Eddy",
             "title": "Edgar Wright’s Glen Powell-Starring Running Man Is Indeed Coming in 2025",
@@ -1109,8 +784,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 61
             },
             "author": "Matt Novak",
             "title": "USDA Recalls 10 Million Pounds of Meat and Poultry Over Listeria Fears",
@@ -1122,8 +797,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 62
             },
             "author": "Joe Tilleli",
             "title": "Amazon Slashes the Price of the WD_Black SSD by 56% Even Though Prime Day Has Ended",
@@ -1135,8 +810,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 63
             },
             "author": "Gizmodo Deals",
             "title": "Say Goodbye to password123, Our Favorite Password Manager is Now on a Great Early Black Friday Deal",
@@ -1148,8 +823,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 64
             },
             "author": "Joe Tilleli",
             "title": "Knock Up to $400 off the Galaxy Watch Ultra at Samsung in This Prime Day Alternative",
@@ -1161,8 +836,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 65
             },
             "author": "Gizmodo Deals",
             "title": "This Samsung 4TB SSD Costs Almost Nothing on Prime Day, Only $0.07 per GB",
@@ -1174,8 +849,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 66
             },
             "author": "Joe Tilleli",
             "title": "Quench Your Thirst All Day with the Popular Stanley Tumbler for Up to 27% Off for Prime Day",
@@ -1187,8 +862,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 67
             },
             "author": "Ed Cara",
             "title": "New Antibiotic Hits the Market to Tackle Stubborn UTIs",
@@ -1200,8 +875,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 68
             },
             "author": "Gizmodo Deals",
             "title": "Prime Day: Amazon is Not Done Yet, Here Are the 10 Best Deals for This Thursday",
@@ -1213,8 +888,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 69
             },
             "author": "Adam Kovac",
             "title": "Scientists Grow Crops in Near-Total Darkness Thanks to New ‘Electro-Agriculture’ Technique",
@@ -1226,8 +901,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 70
             },
             "author": "Matt Novak",
             "title": "Scammy Ads on Facebook and Instagram Viewed 900 Million Times: Report",
@@ -1239,8 +914,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 71
             },
             "author": "Gizmodo Deals",
             "title": "Prime Day: Amazon Reveals Exciting New Deals, Here Are Our Top 12 Picks for Wednesday",
@@ -1252,8 +927,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 72
             },
             "author": "Matt Novak",
             "title": "MAGA Faithful Say McDonald’s E. Coli Outbreak Is a Conspiracy to Hurt Trump",
@@ -1265,8 +940,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 73
             },
             "author": "Ed Cara",
             "title": "Look at What the Cat Dragged in: A Never-Before-Seen Exotic Virus",
@@ -1278,8 +953,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 74
             },
             "author": "Gizmodo Deals",
             "title": "Prime Day Isn’t Over Yet; Amazon Reveals 10 Amazing Deals This Saturday Morning",
@@ -1291,8 +966,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 75
             },
             "author": "Adam Kovac",
             "title": "Kids Are Ditching Cigarettes and Using Nicotine Pouches Instead",
@@ -1301,6 +976,110 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2024/10/nicotine-pouches-survey-tobacco-teens.jpg",
             "publishedAt": "2024-10-21T20:47:06Z",
             "content": "A new survey indicates tobacco use has hit its lowest point among middle and high school students in 25 years, but there is a troubling trend on the rise.\r\nE-cigarette usage declined among kids, as d… [+4300 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 76
+            },
+            "author": "Matthew Gault",
+            "title": "‘It Talked About Kidnapping Me’: Read the Lawsuit That Accuses AI of Aiding in a Teen’s Suicide",
+            "description": "The lawsuit includes an hour-long screen recording of Character.AI's bots disturbing interactions with a user that identified as a 13-year-old.",
+            "url": "https://gizmodo.com/it-talked-about-kidnapping-me-read-the-lawsuit-that-accuses-ai-of-aiding-in-a-teens-suicide-2000516099",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/CharacterAI.jpg",
+            "publishedAt": "2024-10-24T16:35:21Z",
+            "content": "The family of a 14-year-old boy who died by suicide after developing a relationship with an online chatbot is suing the AI company that created it as well as Google. The lawsuit has been filed and is… [+6362 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 77
+            },
+            "author": "Matt Novak",
+            "title": "Donald Trump’s iPhone Wallpaper Is Just a Photo of Himself",
+            "description": "Trump's narcissism knows no bounds.",
+            "url": "https://gizmodo.com/donald-trumps-iphone-wallpaper-is-just-a-photo-of-himself-2000515029",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-wallpaper-himself-top.jpg",
+            "publishedAt": "2024-10-22T18:50:22Z",
+            "content": "It’s no secret that Donald Trump is a big fan of himself. Countless mental health professionals, and even fellow Republicans, have diagnosed the former president as a raging narcissist. But new photo… [+6025 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 78
+            },
+            "author": "Matt Novak",
+            "title": "Trump Supporters’ Fake Stories About Harris and Walz Flood the ‘For You’ Page on X",
+            "description": "X has truly become a garbage heap since Trump donor Elon Musk bought the site.",
+            "url": "https://gizmodo.com/trump-supporters-fake-stories-about-harris-and-walz-flood-the-for-you-page-on-x-2000514522",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/trump-mcdonalds-pennsylvania.jpg",
+            "publishedAt": "2024-10-21T20:10:02Z",
+            "content": "The 2024 presidential campaign has been awash with fake stories about Vice President Kamala Harris and her running mate Tim Walz in recent months, all spread by supporters of Donald Trump. But nowher… [+9189 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 79
+            },
+            "author": "David Nield",
+            "title": "Pixel vs Galaxy: Which Is the Right Android Phone for You?",
+            "description": "Google and Samsung both have a lot to offer.",
+            "url": "https://gizmodo.com/pixel-vs-galaxy-which-is-the-right-android-phone-for-you-2000507627",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/00-hero-e1728304947534.jpg",
+            "publishedAt": "2024-10-07T13:15:27Z",
+            "content": "If you’re looking to pick up one of the best phones on the market for your next upgrade, and you’ve settled on Android as the mobile operating system you want to go with. In that case, you’ll probabl… [+7629 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 80
+            },
+            "author": "Kate Morgan, Grist",
+            "title": "Landowners in the U.S. Southeast Turn to Ancient Fire Practices as Wildfire Threat Increases",
+            "description": "No other part of the country has seen such a sharp rise in the number of big fires. The bigger challenge, though, is getting people to embrace the prescribed burns that can prevent them.",
+            "url": "https://gizmodo.com/landowners-in-the-u-s-southeast-turn-to-ancient-fire-practices-as-wildfire-threat-increases-2000512495",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/northeast-wildfires-controlled-burns.jpg",
+            "publishedAt": "2024-10-16T17:25:11Z",
+            "content": "Courtney Steed often burns barefoot. It is, in part, a practical choice. Setting fires in the Sandhills of central North Carolina requires an understanding of moisture levels in the scrubby underbrus… [+12069 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 81
+            },
+            "author": null,
+            "title": "'Drug pollution in water poses risk to my health'",
+            "description": "Jo Broughton says she stopped swimming in her local brook over \"pharmaceutical pollution\" concerns.",
+            "url": "https://www.bbc.com/news/articles/cq5en8zw1l4o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33dc/live/7c56f030-978d-11ef-aaff-a1c886d0b787.jpg",
+            "publishedAt": "2024-11-01T01:20:33Z",
+            "content": "Jo Broughton used to enjoy wild swimming before she read the findings of a study by the University of York\r\nThousands of people will march on London on Sunday at a family-friendly rally to highlight … [+5693 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 82
+            },
+            "author": null,
+            "title": "Man to create giant GPS penis for mental health",
+            "description": "Terry Rosoman previously struggled with mental health issues and says he wants to help other men.",
+            "url": "https://www.bbc.com/news/articles/cdxv252zwzxo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/d4b0/live/0c3b51f0-9829-11ef-9260-19e6a950e830.png",
+            "publishedAt": "2024-11-01T08:27:07Z",
+            "content": "A man is planning to run 75 miles (120 km) as he aims to create the largest GPS drawing of a penis on foot in 24 hours.\r\nTerry Rosoman, 39, from south Wales, is raising funds and awareness for men's … [+2562 chars]"
+        },
+        {
+            "source": {
+                "name": "BBC News",
+                "article_id": 83
+            },
+            "author": null,
+            "title": "Disposable vapes to be banned from June, says government",
+            "description": "Ministers say the move is intended to prevent environmental damage and protect children's health.",
+            "url": "https://www.bbc.com/news/articles/cd7n3zyp114o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3ecb/live/b7460a60-91ba-11ef-9a7d-071f318c341c.jpg",
+            "publishedAt": "2024-10-24T04:24:35Z",
+            "content": "The sale of disposable vapes will be banned in England from June next year, the government has confirmed. \r\nMinisters say the move is intended to prevent environmental damage and protect children's h… [+3098 chars]"
         }
     ]
 }

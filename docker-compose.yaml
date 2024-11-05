@@ -33,7 +33,7 @@ x-airflow-common:
   volumes:
     - ./dags:/opt/airflow/dags
     - ./plugins:/opt/airflow/plugins
-    - ./news_data:/opt/airflow/news_data
+    - ./news_data:/opt/airflow/Automated-News-Collection/news_data
   user: "${AIRFLOW_UID:-50000}:${AIRFLOW_GID:-50000}"
   depends_on:
     &airflow-common-depends-on

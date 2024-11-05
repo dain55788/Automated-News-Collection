@@ -1,349 +1,24 @@
 {
     "status": "ok",
-    "totalResults": 64011,
+    "totalResults": 59653,
     "articles": [
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
+                "name": "Wired",
+                "article_id": 1
             },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-21T22:25:23Z",
-            "content": "[Removed]"
+            "author": "Geraldine Castro",
+            "title": "How Researchers Are Using Geospatial Technology to Uncover Mexico's Clandestine Graves",
+            "description": "Thousands of hidden graves contain the bodies of the disappeared all across Mexico. Using drones, hyperspectral imaging, and other technologies, scientists and members of the public are uncovering them.",
+            "url": "https://www.wired.com/story/how-researchers-are-using-geospatial-technology-to-uncover-mexicos-clandestine-graves/",
+            "urlToImage": "https://media.wired.com/photos/671ff78848cef3aaedab6818/191:100/w_1280,c_limit/Science_Ehecati_GettyImages-2166963686.jpg",
+            "publishedAt": "2024-11-01T11:00:00Z",
+            "content": "In 2014, after the disappearance of 43 Ayotzinapa normalistas in Mexico, Silván and other CentroGeo professionals joined the scientific advisory board on the case. During the search for the students,… [+2586 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T17:30:45Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-29T13:00:16Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-09T20:06:58Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-15T14:14:13Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Mariella Moon",
-            "title": "Arm cancels Qualcomm's license to use its chip design standards",
-            "description": "Arm has taken its feud with Qualcomm to the next level, two years after filing a lawsuit against its former close partner. According to Bloomberg, the British semiconductor company has canceled the architecture license allowing Qualcomm to use its intellectua…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_49ede2b3-088b-42df-8dde-5e90f6c7d8f1",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T12:30:31Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-07T12:00:29Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-23T20:43:30Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T19:45:32Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jeremy Gan",
-            "title": "Grok can try and explain Elon Musk's terrible jokes",
-            "description": "Elon Musk’s social media platform X is home to the Grok AI model, and it just received an update today to help it understand images\r\n. Musk showcased Grok explaining a joke in an X post\r\n and mentioned that the technology is still in the early stages. Other t…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_5859eb4f-1caa-42b7-8ec8-7c1ca6d960d8",
-            "urlToImage": null,
-            "publishedAt": "2024-10-28T14:45:22Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Danny Gallagher",
-            "title": "President Biden sets up new AI guardrails for military, intelligence agencies",
-            "description": "The White House issued its first national security memorandum outlining the use of artificial intelligence for the military and intelligence agencies. The White House also shared a shortened copy of the memo with the public.\nThe new memo sets up guidelines fo…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_746fa7c6-f0ab-4e51-accc-588b2d550fa7",
-            "urlToImage": null,
-            "publishedAt": "2024-10-24T20:17:53Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Anna Washenko",
-            "title": "OpenAI and Microsoft are funding $10 million in grants for AI-powered journalism",
-            "description": "OpenAI and Microsoft are funding projects to bring more AI tools into the newsroom. The duo will give grants of up to $10 million to Chicago Public Media, the Minnesota Star Tribune, Newsday (in Long Island, NY), The Philadelphia Inquirer and The Seattle Time…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a4f5a67c-45e7-4197-be4b-8ec7e70c5bc4",
-            "urlToImage": null,
-            "publishedAt": "2024-10-22T19:30:42Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jeremy Gan",
-            "title": "The Xbox Wireless Headset receives microphone and battery life upgrades",
-            "description": "Microsoft has just announced its new Xbox Wireless Headset, and it now comes with a free Dolby Atmos license. Previous iterations of the headset required owners to purchase a license separately. That’s typically a $15 purchase, which covers up to 10 Windows o…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_1b8f03c2-8dd1-4eff-af04-d100005c0275",
-            "urlToImage": null,
-            "publishedAt": "2024-10-22T15:14:55Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Igor Bonifacic",
-            "title": "You'll soon be able to safely and easily move your passkeys between password managers",
-            "description": "By now, most people know passkeys offer a better way to protect their online credentials than passwords. Nearly every tech company of note, including Apple, Google and Microsoft, supports the protocol. Moreover, despite a slow start, adoption has dramatically…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_c9430024-036e-4c1e-8e93-fb6ae347f946",
-            "urlToImage": null,
-            "publishedAt": "2024-10-15T16:10:25Z",
-            "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T13:30:12Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-01T15:42:35Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-08T07:00:37Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-16T16:30:24Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Cooper",
-            "title": "The Rubber Keyed Wonder is an adoring portrait of the Sinclair ZX Spectrum",
-            "description": "Hey! If you have fond memories playing Manic Miner or Jet Set Willy on your family TV, you’ll love The Rubber Keyed Wonder. It’s a new documentary chronicling the birth, life, death and rebirth of the Sinclair ZX Spectrum that premieres today. The crowdfunded…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_417bd8c7-977a-40e8-9e18-eba2fc916a46",
-            "urlToImage": null,
-            "publishedAt": "2024-10-03T17:00:47Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Daniel Cooper",
-            "title": "reMarkable Paper Pro review: Writing in color is nice, but it'll cost you",
-            "description": "It’s wild to think the reMarkable 2 debuted in March 2020, a time now more famous for other reasons. A lot has changed in the four-plus years since, and now it’s time for its successor, the reMarkable Paper Pro. The third-generation, distraction-free writing …",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_846468e4-db82-40f1-93e7-0b34249cd887",
-            "urlToImage": null,
-            "publishedAt": "2024-10-01T17:30:24Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Valentina Palladino",
-            "title": "Kindle Colorsoft review: The missing link in Amazon’s ereader lineup",
-            "description": "Well, it finally happened. After years of waiting and requests, Amazon debuted the $280 Kindle Colorsoft, its first ereader with a color display. The company’s ereaders have dominated this space since the original Kindle came out 17 years ago, but in this cas…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b1261346-3b77-43e5-9c88-2ed04a0f22fb",
-            "urlToImage": null,
-            "publishedAt": "2024-10-30T13:15:29Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Devindra Hardawar",
-            "title": "Nintendo Alarmo review: Charming, yet frustrating",
-            "description": "Alarmo is the quintessential Nintendo product: It's a fun and quirky spin on a bedside alarm clock (with a motion sensor!) that mines your love for everything Nintendo. It's a $100 device entirely meant to surprise and delight you. But there are also usabilit…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dfd3c815-3402-4004-a1f3-ba7e3dc01f0f",
-            "urlToImage": null,
-            "publishedAt": "2024-10-21T19:44:33Z",
-            "content": "If you click 'Accept all', we and our partners, including 237 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Billy Steele",
-            "title": "The best wireless earbuds for 2024",
-            "description": "While you could say the Bluetooth earbuds space is thriving, you could also say the amount of variety in the market can make it confusing to decide which pair will be the best Bluetooth earbuds for you. There are plenty of high-quality options out there, with…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_4967f0e8-80a5-43e1-b819-f27ae858ae37",
-            "urlToImage": null,
-            "publishedAt": "2024-10-03T16:00:37Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Devindra Hardawar",
-            "title": "Engadget Podcast: Why the Windows 11 2024 update is all about Copilot AI",
-            "description": "This week, Microsoft started rolling out the Windows 11 2024 update, but it quickly became clear that the company was far more eager to unveil new features for its Copilot AI and Copilot+ AI PCs. In this episode, Devindra and Cherlynn chat about Microsoft's c…",
-            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_b3f2584d-3430-48b1-bf75-c4348f20d394",
-            "urlToImage": null,
-            "publishedAt": "2024-10-04T11:30:26Z",
-            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "[Removed]"
-            },
-            "author": null,
-            "title": "[Removed]",
-            "description": "[Removed]",
-            "url": "https://removed.com",
-            "urlToImage": null,
-            "publishedAt": "2024-10-04T13:25:06Z",
-            "content": "[Removed]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Rob Reddick",
-            "title": "Formula E’s Race to Get the Whole World Electrified",
-            "description": "Since launching in 2014, the world’s premier EV racing series has made huge technological leaps and gained hundreds of millions of fans. But CEO Jeff Dodds won’t rest until every new car is electric.",
-            "url": "https://www.wired.com/story/wired-energy-tech-summit-jeff-dodds-formula-e/",
-            "urlToImage": "https://media.wired.com/photos/66fad5471a6754e67328db22/191:100/w_1280,c_limit/formula-e-sci-2152011844.jpg",
-            "publishedAt": "2024-10-02T08:00:00Z",
-            "content": "What sorts of offsets do you focus on? People have different opinions as to what is good enough, and theyre not all equal.\r\nWe primarily focus on the creation of renewable energy, since thats what gi… [+3401 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 2
             },
             "author": "Verity Burns",
             "title": "Nintendo Alarmo: Price, Specs, Availability",
@@ -355,21 +30,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Amy Francombe",
-            "title": "Coperni’s Spray-On Dress Was a Viral Smash. This Gravity-Defying Gel Bag Might Top It",
-            "description": "The sci-fi-loving fashion house has partnered with Disney to make an eco-friendly bag that could signal a shift in 3D-printed apparel.",
-            "url": "https://www.wired.com/story/coperni-spray-on-dress-viral-smash-gravity-defying-gel-bag-might-top-it/",
-            "urlToImage": "https://media.wired.com/photos/66fd467140a8f70164da2d56/191:100/w_1280,c_limit/GettyImages-2176008474.jpg",
-            "publishedAt": "2024-10-02T14:49:43Z",
-            "content": "Coperni has yet to decide how many RLP Swipe Bags will be put into production, but for Meyer, starting a conversation around these innovations is more important than immediate commercial success. Its… [+2689 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 3
             },
             "author": "Tess Owen",
             "title": "Facebook Is Auto-Generating Militia Group Pages as Extremists Continue to Organize in Plain Sight",
@@ -381,21 +43,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "David Gilbert",
-            "title": "The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines",
-            "description": "The North Atlantic Fella Organization, which started as a way to fight Kremlin propaganda, has raised millions of dollars to send vital equipment directly to soldiers fighting Russia.",
-            "url": "https://www.wired.com/story/nafo-ukraine-russia-war/",
-            "urlToImage": "https://media.wired.com/photos/6716e4084012a0d38806eebe/191:100/w_1280,c_limit/Security_trolls.jpg",
-            "publishedAt": "2024-10-22T14:34:37Z",
-            "content": "The fundraising drives are organized on Discord, Signal, and Telegrambut not on X, the platform that the NAFO movement has thrived on for years.\r\nPeople are being forced away from X, just because Rus… [+2319 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 4
             },
             "author": "Morgan Meaker",
             "title": "GPS Jamming Is Screwing With Norwegian Planes",
@@ -407,21 +56,34 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 5
             },
-            "author": "Boone Ashworth",
-            "title": "This Talking Pet Collar Is Like a Chatbot for Your Dog",
-            "description": "A new smart collar called Shazam aims to give pet owners the ability to talk to their fur babies. Or at least fake it.",
-            "url": "https://www.wired.com/story/shazam-talking-pet-collar-a-chatbot-for-your-cat-or-dog/",
-            "urlToImage": "https://media.wired.com/photos/670d854f09d4517e110c86a0/191:100/w_1280,c_limit/dog-collar-gear.jpg",
-            "publishedAt": "2024-10-15T17:00:00Z",
-            "content": "Humans have been trying to talk to animals ever since we figured out how to form words. In modern times, we turn to technology for the solutiongiving our dogs talking buttons to paw at, or trying to … [+2914 chars]"
+            "author": "David Gilbert",
+            "title": "The Shitposting Cartoon Dogs Sending Trucks, Drones, and Weapons to Ukraine’s Front Lines",
+            "description": "The North Atlantic Fella Organization, which started as a way to fight Kremlin propaganda, has raised millions of dollars to send vital equipment directly to soldiers fighting Russia.",
+            "url": "https://www.wired.com/story/nafo-ukraine-russia-war/",
+            "urlToImage": "https://media.wired.com/photos/6716e4084012a0d38806eebe/191:100/w_1280,c_limit/Security_trolls.jpg",
+            "publishedAt": "2024-10-22T14:34:37Z",
+            "content": "The fundraising drives are organized on Discord, Signal, and Telegrambut not on X, the platform that the NAFO movement has thrived on for years.\r\nPeople are being forced away from X, just because Rus… [+2319 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 6
+            },
+            "author": "Anna Lagos",
+            "title": "How a PhD Student Discovered a Lost Mayan City From Hundreds of Miles Away",
+            "description": "WIRED spoke with the researchers responsible for the discovery of Valeriana, a lost Maya city in the middle of the jungle of Campeche.",
+            "url": "https://www.wired.com/story/lost-maya-city-valeriana-interview/",
+            "urlToImage": "https://media.wired.com/photos/6725201aadcef1486951955f/191:100/w_1280,c_limit/Science_mayancity_GettyImages-898203120.jpg",
+            "publishedAt": "2024-11-02T18:03:01Z",
+            "content": "A new Mayan city, lost in the dense jungle of southern Mexico for centuries, has been discovered from the computer of a PhD student hundreds of miles away. This is the story of how he did it.\r\nThe se… [+2209 chars]"
+        },
+        {
+            "source": {
+                "name": "Wired",
+                "article_id": 7
             },
             "author": "Will Knight",
             "title": "The OpenAI Talent Exodus Gives Rivals an Opening",
@@ -433,8 +95,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 8
             },
             "author": "Dan Goodin, Ars Technica",
             "title": "Stealthy Malware Has Infected Thousands of Linux Systems for Years",
@@ -446,34 +108,21 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 9
             },
-            "author": "Alex Christian",
-            "title": "The Secret Alchemy of Making Ice Cream",
-            "description": "Ice cream is deceptively simple, but that sweet burst of flavor and soft melt on the tongue is a finicky, frozen science of water, fat, and air delicately held together.",
-            "url": "https://www.wired.com/story/inside-alchemy-ice-cream-making/",
-            "urlToImage": "https://media.wired.com/photos/66fa5cf3111d98d4c923c772/191:100/w_1280,c_limit/Tetra%20Pak_29_FINAL.jpg",
-            "publishedAt": "2024-10-04T09:00:00Z",
-            "content": "To make the perfect scoop of ice cream, you first need a dairy baseits natural proteins, fat, and sugar provide the rich, distinct mouthfeel. Heavy cream is added, further smoothing the texture. The … [+3689 chars]"
+            "author": "Boone Ashworth",
+            "title": "This Talking Pet Collar Is Like a Chatbot for Your Dog",
+            "description": "A new smart collar called Shazam aims to give pet owners the ability to talk to their fur babies. Or at least fake it.",
+            "url": "https://www.wired.com/story/shazam-talking-pet-collar-a-chatbot-for-your-cat-or-dog/",
+            "urlToImage": "https://media.wired.com/photos/670d854f09d4517e110c86a0/191:100/w_1280,c_limit/dog-collar-gear.jpg",
+            "publishedAt": "2024-10-15T17:00:00Z",
+            "content": "Humans have been trying to talk to animals ever since we figured out how to form words. In modern times, we turn to technology for the solutiongiving our dogs talking buttons to paw at, or trying to … [+2914 chars]"
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Kyle Orland, Ars Technica",
-            "title": "SpaceX Has a Plan for Starlink to Hit Gigabit Speeds",
-            "description": "Elon Musk's satellite internet company told the FCC that a few tweaks to its “orbital configuration and operational parameters” could result in nearly 10 times faster downloads.",
-            "url": "https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/",
-            "urlToImage": "https://media.wired.com/photos/67113c9484929bf89d32c366/191:100/w_1280,c_limit/ARS-Starlink-Internet-Speeds-Business-2089840762.jpg",
-            "publishedAt": "2024-10-17T17:29:51Z",
-            "content": "SpaceX is seeking approval for changes to Starlink that the company says will enable gigabit-per-second broadband service. In an application submitted to the US Federal Communications Commission on O… [+3276 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 10
             },
             "author": "Matt Burgess, Lily Hay Newman",
             "title": "Pig Butchering Scams Are Going High Tech",
@@ -485,8 +134,34 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 11
+            },
+            "author": "Alex Christian",
+            "title": "The Secret Alchemy of Making Ice Cream",
+            "description": "Ice cream is deceptively simple, but that sweet burst of flavor and soft melt on the tongue is a finicky, frozen science of water, fat, and air delicately held together.",
+            "url": "https://www.wired.com/story/inside-alchemy-ice-cream-making/",
+            "urlToImage": "https://media.wired.com/photos/66fa5cf3111d98d4c923c772/191:100/w_1280,c_limit/Tetra%20Pak_29_FINAL.jpg",
+            "publishedAt": "2024-10-04T09:00:00Z",
+            "content": "To make the perfect scoop of ice cream, you first need a dairy baseits natural proteins, fat, and sugar provide the rich, distinct mouthfeel. Heavy cream is added, further smoothing the texture. The … [+3689 chars]"
+        },
+        {
+            "source": {
+                "name": "Wired",
+                "article_id": 12
+            },
+            "author": "Kyle Orland, Ars Technica",
+            "title": "SpaceX Has a Plan for Starlink to Hit Gigabit Speeds",
+            "description": "Elon Musk's satellite internet company told the FCC that a few tweaks to its “orbital configuration and operational parameters” could result in nearly 10 times faster downloads.",
+            "url": "https://www.wired.com/story/spacex-starlink-internet-gigabit-speeds-fcc/",
+            "urlToImage": "https://media.wired.com/photos/67113c9484929bf89d32c366/191:100/w_1280,c_limit/ARS-Starlink-Internet-Speeds-Business-2089840762.jpg",
+            "publishedAt": "2024-10-17T17:29:51Z",
+            "content": "SpaceX is seeking approval for changes to Starlink that the company says will enable gigabit-per-second broadband service. In an application submitted to the US Federal Communications Commission on O… [+3276 chars]"
+        },
+        {
+            "source": {
+                "name": "Wired",
+                "article_id": 13
             },
             "author": "Andrew Watman",
             "title": "Tiger Siphonysta Review: Fun Yet Flawed Coffee Brewer",
@@ -498,8 +173,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 14
             },
             "author": "Kevin Purdy, Ars Technica",
             "title": "I Own a Chevy Bolt, and Superchargers Are a Total Game Changer",
@@ -511,8 +186,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 15
             },
             "author": "Todd Feathers",
             "title": "It Seemed Like an AI Crime-Fighting Super Tool. Then Defense Attorneys Started Asking Questions",
@@ -524,8 +199,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 16
             },
             "author": "Anna Lagos",
             "title": "A Lost Mayan City Has Been Found With Laser Mapping",
@@ -537,8 +212,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 17
             },
             "author": "Eric Geller",
             "title": "How a Trump Win Could Unleash Dangerous AI",
@@ -550,8 +225,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 18
             },
             "author": "Lily Hay Newman, Andrew Couts",
             "title": "Google Chrome’s uBlock Origin Purge Has Begun",
@@ -563,8 +238,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 19
             },
             "author": "Benj Edwards, Ars Technica",
             "title": "OpenAI’s Transcription Tool Hallucinates. Hospitals Are Using It Anyway",
@@ -576,8 +251,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 20
             },
             "author": "Marah Eakin",
             "title": "Filmmakers Are Worried About AI. Big Tech Wants Them to See ‘What's Possible’",
@@ -589,8 +264,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 21
             },
             "author": "Reece Rogers",
             "title": "OpenAI's ChatGPT Breaks Out of Its Box—and Onto a Canvas",
@@ -602,8 +277,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 22
             },
             "author": "Vas Panagiotopoulos",
             "title": "ICE's $2 Million Contract With a Spyware Vendor Is Under White House Review",
@@ -615,21 +290,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Jason Barlow",
-            "title": "Bentley Continental GT Speed Hybrid 2025 Review: Prices, Specs, Availability",
-            "description": "The addition of electric power not only gives it 50 miles of EV range, it makes the Continental GT Speed the most powerful production car in Bentley’s long history.",
-            "url": "https://www.wired.com/review/review-bentley-continental-gt-speed-hybrid-2025/",
-            "urlToImage": "https://media.wired.com/photos/66fbc45fc7442a25983cf2b7/191:100/w_1280,c_limit/Gallery%201.jpg",
-            "publishedAt": "2024-10-01T09:55:00Z",
-            "content": "Somehow the idea of the grand tour prevails. Its roots may lie in the aristocratic 17th and 18th century campaign for self-improvement, but we know it better as a two-letter abbreviation affixed to t… [+3025 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 23
             },
             "author": "Joel Khalili",
             "title": "Unmasking Bitcoin Creator Satoshi Nakamoto—Again",
@@ -641,21 +303,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "Lauren Goode",
-            "title": "Google’s Visual Search Can Now Answer Even More Complex Questions",
-            "description": "Launched in 2017, Google Lens processes 20 billion visual searches a month. Now it will work with video and voice, too.",
-            "url": "https://www.wired.com/story/google-lens-multimodal-search/",
-            "urlToImage": "https://media.wired.com/photos/66fd98c92d87344a0bafaaaf/191:100/w_1280,c_limit/Google-Lens-Update-Business-2XJPWKX.jpg",
-            "publishedAt": "2024-10-03T16:00:00Z",
-            "content": "When Google Lens was introduced in 2017, the search feature accomplished a feat that not too long ago would have seemed like the stuff of science fiction: Point your phones camera at an object and Go… [+3508 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 24
             },
             "author": "Aarian Marshall",
             "title": "Tesla Is Ready to Roll Out the Cybercab, Its Answer to Robotaxis",
@@ -667,8 +316,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 25
             },
             "author": "Alanna Martine Kilkeary",
             "title": "The Best Curling Irons of 2024, Tested and Reviewed",
@@ -680,8 +329,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 26
             },
             "author": "Annie Melchor",
             "title": "Cells From Different Species Can Exchange ‘Text Messages’ Using RNA",
@@ -693,8 +342,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 27
             },
             "author": "Kyle Orland, Ars Technica",
             "title": "Apple Engineers Show How Flimsy AI ‘Reasoning’ Can Be",
@@ -706,21 +355,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
-            },
-            "author": "John Timmer, Ars Technica",
-            "title": "The UK Has No Coal-Fired Power Plants for the First Time in 142 Years",
-            "description": "With Monday's closure of Ratcliffe-on-Soar, coal is no longer being used to provide electricity in the UK.",
-            "url": "https://www.wired.com/story/uk-no-coal-fired-power-plants-first-time-in-142-years/",
-            "urlToImage": "https://media.wired.com/photos/66fc3fbaaddefb36003a74e4/191:100/w_1280,c_limit/Science_Power_Plant_GettyImages-992729766.jpg",
-            "publishedAt": "2024-10-01T19:52:53Z",
-            "content": "On Monday, the UK saw the closure of its last operational coal power plant, Ratcliffe-on-Soar, which has been operating since 1968. The closure of the plant, which had a capacity of 2,000 megawatts, … [+4069 chars]"
-        },
-        {
-            "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 28
             },
             "author": "Nena Farrell",
             "title": "Best Prime Day Mattress Deals Plus Epic Bedding Sales (2024)",
@@ -732,8 +368,8 @@
         },
         {
             "source": {
-                "id": "wired",
-                "name": "Wired"
+                "name": "Wired",
+                "article_id": 29
             },
             "author": "Kat Merck, Gear Team",
             "title": "25 Best Amazon Prime Day Hair Tool Deals to Shop Right Now (2024)",
@@ -745,8 +381,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 30
             },
             "author": "Chris Welch",
             "title": "Sonos announces ‘breakthrough’ Arc Ultra soundbar and Sub 4",
@@ -758,8 +394,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 31
             },
             "author": "Abigail Bassett",
             "title": "Honda Zero first drive: an EV without the baggage",
@@ -771,8 +407,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 32
             },
             "author": "Tom Warren",
             "title": "You can sign up to test Microsoft Flight Simulator 2024 if your PC is up to it",
@@ -784,8 +420,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 33
             },
             "author": "Wes Davis",
             "title": "Threshold’s Wi-Fi sensing plugs offer caregiver monitoring without cameras",
@@ -797,34 +433,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Fortnite creators can now make first-person shooters",
-            "description": "Developers that build Fortnite experiences can now try out a new first-person camera mode, Epic Games announced.",
-            "url": "https://www.theverge.com/2024/10/1/24258447/fortnite-creators-first-person-shooters-fps-unreal-editor",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/lQTW5pu2yldcm6BoTu2n7QldCyU=/0x0:1200x630/1200x628/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651689/Unreal_Fest_Seattle___UEFN___First_Person_Camera_Mode_device__Experimental____2.jpg",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "Fortnite creators can now make first-person shooters\r\nFortnite creators can now make first-person shooters\r\n / Theyll be able to publish FPS experiences later in 2024 with Unreal Editor for Fortnite.… [+1268 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jennifer Pattison Tuohy",
-            "title": "Sleep Number’s newest smart bed aims to tackle night sweats",
-            "description": "The company says its newest smart bed can actively cool and adapt to both sleepers’ temperature needs throughout the night.",
-            "url": "https://www.theverge.com/2024/10/1/24259440/sleep-number-climate-cool-smart-bed-price-features",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/b7tR_OnblE8cXExsFC4Ga4ntCqE=/711x757:3306x2710/1200x628/filters:focal(2046x1248:2047x1249)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652952/cc_FT_FXT_FX2_2407_01a.jpg",
-            "publishedAt": "2024-10-01T18:59:20Z",
-            "content": "Sleep Numbers newest smart bed aims to tackle night sweats\r\nSleep Numbers newest smart bed aims to tackle night sweats\r\n / The ClimateCool can actively cool you and adjust to your temperature through… [+3346 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 34
             },
             "author": "Andrew J. Hawkins",
             "title": "Tesla Cybercab announced: Elon Musk’s robotaxi is finally here",
@@ -836,8 +446,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 35
             },
             "author": "Jess Weatherbed",
             "title": "Meta brings back face scanning to combat scams and account hacking",
@@ -849,8 +459,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 36
             },
             "author": "Wes Davis",
             "title": "Dodge Chargers with semi-solid-state batteries may hit the road in 2026",
@@ -862,8 +472,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 37
             },
             "author": "Jay Peters",
             "title": "YouTube says it is ‘not hiding the skip button’ on ads",
@@ -875,8 +485,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 38
             },
             "author": "Jay Peters",
             "title": "Brazilian police arrested the hacker who stole everyone’s SSN",
@@ -888,8 +498,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 39
             },
             "author": "Jay Peters",
             "title": "A first look at Apple’s redesigned Mac Mini and its other new Macs",
@@ -901,8 +511,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 40
             },
             "author": "Jay Peters",
             "title": "Apple is preparing an M4 MacBook Air update for early next year",
@@ -914,8 +524,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 41
             },
             "author": "Jay Peters",
             "title": "Epic has a plan for the rest of the decade",
@@ -927,8 +537,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 42
             },
             "author": "Jennifer Pattison Tuohy",
             "title": "SimpliSafe’s new camera lets live agents watch your property",
@@ -940,8 +550,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 43
             },
             "author": "Andrew J. Hawkins",
             "title": "Waymo is adding the Hyundai Ioniq 5 to its robotaxi fleet",
@@ -953,8 +563,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 44
             },
             "author": "Sean Hollister",
             "title": "DJI sues the US Department of Defense for labeling it a ‘Chinese Military Company’",
@@ -966,8 +576,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 45
             },
             "author": "Jay Peters",
             "title": "More than a quarter of new code at Google is generated by AI",
@@ -979,21 +589,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Jay Peters",
-            "title": "Airbnb can now help you find somebody to manage your listing",
-            "description": "Airbnb’s new “Co-Host Network,” available as part of the company’s 2024 Winter Release, lets you compare and work co-hosts right inside the app.",
-            "url": "https://www.theverge.com/2024/10/16/24271838/airbnb-co-host-network-manage-listing-2024-winter-release",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZbKJTe4dsbXL3qNy_labFk3vFzM=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962502/acastro_STK090_06.jpg",
-            "publishedAt": "2024-10-16T16:30:04Z",
-            "content": "Airbnb can now help you find somebody to manage your listing\r\nAirbnb can now help you find somebody to manage your listing\r\n / The new Co-Host Network lets you compare co-hosts right inside the app.\r… [+1741 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 46
             },
             "author": "Jay Peters",
             "title": "YouTube is testing its cheaper Premium Lite subscription again, but it now has limited ads",
@@ -1005,8 +602,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 47
             },
             "author": "Jay Peters",
             "title": "A new iMessage safety feature prompts kids to report explicit images to Apple",
@@ -1018,8 +615,21 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 48
+            },
+            "author": "Jay Peters",
+            "title": "Airbnb can now help you find somebody to manage your listing",
+            "description": "Airbnb’s new “Co-Host Network,” available as part of the company’s 2024 Winter Release, lets you compare and work co-hosts right inside the app.",
+            "url": "https://www.theverge.com/2024/10/16/24271838/airbnb-co-host-network-manage-listing-2024-winter-release",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZbKJTe4dsbXL3qNy_labFk3vFzM=/0x0:2040x1361/1200x628/filters:focal(1020x681:1021x682)/cdn.vox-cdn.com/uploads/chorus_asset/file/23962502/acastro_STK090_06.jpg",
+            "publishedAt": "2024-10-16T16:30:04Z",
+            "content": "Airbnb can now help you find somebody to manage your listing\r\nAirbnb can now help you find somebody to manage your listing\r\n / The new Co-Host Network lets you compare co-hosts right inside the app.\r… [+1741 chars]"
+        },
+        {
+            "source": {
+                "name": "The Verge",
+                "article_id": 49
             },
             "author": "Kylie Robison",
             "title": "Agents are the future AI companies promise — and desperately need",
@@ -1031,21 +641,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Lauren Feiner",
-            "title": "JD Vance avoids January 6th questions by pivoting to Facebook ‘censorship’",
-            "description": "What Sen. JD Vance and Gov. Tim Walz said about censorship, January 6th, and Big Tech at the vice presidential debate.",
-            "url": "https://www.theverge.com/2024/10/2/24259972/vance-walz-big-tech-first-amendment-debate",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZCCaHiZnhJClEGOMJC2QeNZ4-fk=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651225/STK206_STK204_JD_VANCE_TIM_WALZ_D.jpg",
-            "publishedAt": "2024-10-02T04:00:36Z",
-            "content": "JD Vance avoids January 6th questions by pivoting to Facebook censorship\r\nJD Vance avoids January 6th questions by pivoting to Facebook censorship\r\n / When Tim Walz asked point-blank who won the 2020… [+3704 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 50
             },
             "author": "Jay Peters",
             "title": "Wilmot Works It Out is the best parts of jigsaw puzzles, but faster and cleaner",
@@ -1057,8 +654,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 51
             },
             "author": "Jess Weatherbed",
             "title": "Adobe made its painting app completely free to take on Procreate",
@@ -1070,8 +667,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 52
             },
             "author": "David Nield",
             "title": "How to lock any app with Face ID on an iPhone using iOS 18",
@@ -1083,8 +680,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 53
             },
             "author": "Victoria Song",
             "title": "Ozlo Sleepbuds hands-on: resurrected and I’ve slept so good",
@@ -1096,8 +693,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 54
             },
             "author": "Jay Peters",
             "title": "Roblox is making changes for pre-teen users after reports that it failed to protect children",
@@ -1109,21 +706,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Nick Statt",
-            "title": "The toxic transformation of Warcraft maker Blizzard",
-            "description": "Journalist Jason Schreier discusses his new book, Play Nice: The Rise, Fall, and Future of Blizzard Entertainment.",
-            "url": "https://www.theverge.com/2024/10/3/24260550/blizzard-entertainment-play-nice-jason-schreier-activision-gaming-microsoft-xbox-decoder-interview",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/aiAISDM330HZpAwxtFnPVZ3KpWY=/0x0:2760x1839/1200x628/filters:focal(1795x878:1796x879)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654793/decoder.png",
-            "publishedAt": "2024-10-03T14:00:00Z",
-            "content": "Journalist Jason Schreier discusses his new book, Play Nice: The Rise, Fall, and Future of Blizzard Entertainment.\r\nByNick Statt, a Senior Producer on Decoder. Previously, he wrote about technology a… [+4018 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 55
             },
             "author": "Andrew J. Hawkins",
             "title": "Cruise lost $435 million this quarter, even with its robotaxis on hiatus",
@@ -1135,8 +719,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 56
             },
             "author": "Andrew J. Hawkins",
             "title": "The bill finally comes due for Elon Musk",
@@ -1148,34 +732,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "Tom Warren",
-            "title": "Microsoft gives Copilot a voice and vision in its biggest redesign yet",
-            "description": "Microsoft is overhauling its Copilot AI assistant with a new design and features. Copilot is getting voice and vision features that offer more personalized feeds.",
-            "url": "https://www.theverge.com/2024/10/1/24259187/microsoft-copilot-redesign-vision-voice-features-inflection-ai",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-H77z6SYbFrw3XoZ-53QGY0Wqjw=/0x0:2640x1760/1200x628/filters:focal(1320x880:1321x881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25652460/copilothed.jpg",
-            "publishedAt": "2024-10-01T14:00:00Z",
-            "content": "Image: Microsoft\r\n\n \n\n\n Copilot is transforming into a more personalized AI assistant thanks to Inflection. Microsoft is unveiling a big overhaul of its Copilot experience today, adding voice and vis… [+8485 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
-            },
-            "author": "David Pierce",
-            "title": "What’s on your desk, David Pierce?",
-            "description": "The Verge’s editor-at-large, podcaster, and enthusiastic app tester talks about his basement workspace.",
-            "url": "https://www.theverge.com/24259381/work-home-desk-logitech-sony",
-            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mi5wfWOPrbU3YQQ6zA2yBr6PbTw=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25654828/247306_WoyD_David_Pierce_DPierce_0002.jpg",
-            "publishedAt": "2024-10-03T14:00:00Z",
-            "content": "A revolving set of tech, together with some great family art. David Pierce is The Verge’s editor-at-large. What is an editor-at-large? It means, he says, “well, nothing. I write stories and make podc… [+7959 chars]"
-        },
-        {
-            "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 57
             },
             "author": "Joanna Nelius",
             "title": "Melodrama!",
@@ -1187,8 +745,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 58
             },
             "author": "Lauren Feiner",
             "title": "Judges let algorithms help them make decisions, except when they don’t",
@@ -1200,8 +758,8 @@
         },
         {
             "source": {
-                "id": "the-verge",
-                "name": "The Verge"
+                "name": "The Verge",
+                "article_id": 59
             },
             "author": "Elizabeth Lopatto",
             "title": "The future of crypto regulation comes down to one unpopular man",
@@ -1213,8 +771,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 60
             },
             "author": "Gizmodo Deals",
             "title": "Back to Its Prime Day Price (59% Off), The Roborock Q7 Max+ is so Subtle That You’ll Hardly Notice it’s Working",
@@ -1226,8 +784,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 61
             },
             "author": "Isaac Schultz",
             "title": "Lost Maya City, Including Pyramids, Discovered in Mexico’s Jungle",
@@ -1239,8 +797,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 62
             },
             "author": "Gizmodo",
             "title": "First Vacuum in Space: Where Roborock’s Vision Meets the Cosmos",
@@ -1252,21 +810,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
-            },
-            "author": "Gizmodo",
-            "title": "From Dust to the Stars: Roborock’s Vacuum Journey “Beyond Limits” with the S8 MaxV Ultra",
-            "description": "Roborock's recent launch of the S8 MaxV Ultra vacuum into Near Space showcases the durability and innovation of its technology in extreme conditions.",
-            "url": "https://gizmodo.com/from-dust-to-the-stars-roborocks-vacuum-journey-beyond-limits-with-the-s8-maxv-ultra-2000504850",
-            "urlToImage": "https://gizmodo.com/app/uploads/2024/09/roborock-space.jpg",
-            "publishedAt": "2024-10-02T13:36:36Z",
-            "content": "Roborock is a global leader in smart home robotics and has revolutionized the cleaning industry in the past decade. The company was founded in Beijing, China, and has quickly become one of the world’… [+4603 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 63
             },
             "author": "Joe Tilleli",
             "title": "Unbelievable, This “$1,000” Portable Printer Is Now Under $100 for Amazon Prime Day",
@@ -1278,8 +823,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 64
             },
             "author": "Todd Feathers",
             "title": "The Crusade to Replace Passwords With Passkeys Just Got More Fuel",
@@ -1291,8 +836,8 @@
         },
         {
             "source": {
-                "id": null,
-                "name": "Gizmodo.com"
+                "name": "Gizmodo.com",
+                "article_id": 65
             },
             "author": "Gizmodo Deals",
             "title": "Amazon is Offering a Huge Discount on The Bose QuietComfort Ultra if You Buy it Before The End of Prime Day Tonight",
@@ -1301,6 +846,162 @@
             "urlToImage": "https://gizmodo.com/app/uploads/2024/10/bose-qc-ultra.jpg",
             "publishedAt": "2024-10-09T14:14:19Z",
             "content": "The Bose QuietComfort Ultra headphones are the latest and most luxurious addition to Bose’s renowned lineup and they are now available at an incredibly low price for Amazon’s Prime Day. For just $329… [+2264 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 66
+            },
+            "author": "Gizmodo Deals",
+            "title": "To Protect Your Health, The Blueair Air Purifier Is Now Available At 46% Off For Prime Day",
+            "description": "This air purifier will help you combat allergies, viruses, dust, mold and smoke.",
+            "url": "https://gizmodo.com/to-protect-your-health-the-blueair-air-purifier-is-now-available-at-46-off-for-prime-day-2000507882",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
+            "publishedAt": "2024-10-06T12:44:07Z",
+            "content": "Prime Day is here and with it comes an exceptional deal on one of the most powerful air purifiers on the market. The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, i… [+2127 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 67
+            },
+            "author": "Gizmodo Deals",
+            "title": "This Prime Day, Our Favorite TV is The 65-Inch LG C4 OLED at 45% Off",
+            "description": "This price is ridiculously low!",
+            "url": "https://gizmodo.com/this-prime-day-our-favorite-tv-is-the-65-inch-lg-c4-oled-at-45-off-2000508365",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-c4.jpg",
+            "publishedAt": "2024-10-07T17:15:53Z",
+            "content": "As the Prime Day event kicks off on Amazon, there’s an exceptional deal on the LG OLED evo C4 Series 4K TVs which offers unprecedented value across multiple screen sizes. What makes this offer even m… [+2464 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 68
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Slashes AirPods Max Price to Record Low for Prime Day Clearance Sale",
+            "description": "And Apple hates discounts!",
+            "url": "https://gizmodo.com/amazon-slashes-airpods-max-price-to-record-low-for-prime-day-clearance-sale-2000507985",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/airpods-max-apple-1.jpg",
+            "publishedAt": "2024-10-06T16:43:32Z",
+            "content": "Amazon has slashed prices on Apple’s premium AirPods Max and offers an unprecedented deal that’s turning heads in the tech world. These high-end over-ear headphones originally priced at $549 saw an i… [+2510 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 69
+            },
+            "author": "Gizmodo Deals",
+            "title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1,500 Discount as a Prime Day Gift",
+            "description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
+            "url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-a-prime-day-gift-2000507365",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
+            "publishedAt": "2024-10-05T12:15:58Z",
+            "content": "As Prime Day weekend unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer i… [+2548 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 70
+            },
+            "author": "Gizmodo Deals",
+            "title": "3 times Cheaper Than The New XM5 Model, The Sony 1000XM4 Headphones Are 63% Off For Prime Day",
+            "description": "This is one of the best deals for Prime Day.",
+            "url": "https://gizmodo.com/3-times-cheaper-than-the-new-xm5-model-the-sony-1000xm4-headphones-are-63-off-for-prime-day-2000508199",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/sony-1000xm4.jpg",
+            "publishedAt": "2024-10-07T13:20:20Z",
+            "content": "The Sony WH-1000XM4 headphones have just become the star of Amazon’s Prime Day with an unprecedented 63% discount bringing their price down to a mere $129 from the original $348. This deal was announ… [+2295 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 71
+            },
+            "author": "Gizmodo Deals",
+            "title": "The Galaxy Z Fold 6 Is Almost Free On The Samsung Site, $1500 Discount as a Prime Day Gift",
+            "description": "The Galaxy Z Fold 6 is undoubtedly the best folding phone available right now.",
+            "url": "https://gizmodo.com/the-galaxy-z-fold-6-is-almost-free-on-the-samsung-site-1500-discount-as-prime-day-gift-2000507365",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/zfold-6-samsung.jpg",
+            "publishedAt": "2024-10-07T21:46:58Z",
+            "content": "As Prime Day unfolds, Samsung is offering an incredible opportunity to purchase the Galaxy Z Fold 6 at a fraction of its original price through its official website. This limited-time offer is entici… [+2535 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 72
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Cares About Your Health, It’s Selling Blueair Air Purifiers at 46% Off",
+            "description": "This air purifier is one of the best sellers of Prime Day.",
+            "url": "https://gizmodo.com/amazon-cares-about-your-health-its-selling-blueair-air-purifiers-at-46-off-2000509289",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/blueair-purifier.jpg",
+            "publishedAt": "2024-10-08T17:28:59Z",
+            "content": "The Blueair Air Purifier for Large Rooms, specifically the Blue Pure 211i Max model, is now available at an astounding 46% discount bringing its price down from $349 to just $189 for Prime members. T… [+1887 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 73
+            },
+            "author": "Gizmodo Deals",
+            "title": "Goodbye to Cleaning, This Roborock S8+ at 45% Off on Prime Day is an Absolute Dream for Lazy People",
+            "description": "Roborock is one of the leading brands of robot vacuums.",
+            "url": "https://gizmodo.com/goodbye-to-cleaning-this-roborock-s8-at-45-off-on-prime-day-is-an-absolute-dream-for-lazy-people-2000508029",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/roborock-s8-plus.jpg",
+            "publishedAt": "2024-10-06T20:11:21Z",
+            "content": "As Prime Day is about to begin, Amazon is offering a great deal on the Roborock S8+ slashing its price from $999 to just $549 which represents a massive 45% discount. The good news is that this offer… [+2621 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 74
+            },
+            "author": "Gizmodo Deals",
+            "title": "At -45% on Amazon Prime Day, This LG C4 Series TV Will Sell Like Hotcakes",
+            "description": "Amazon surprises us with this unprecedented offer.",
+            "url": "https://gizmodo.com/at-45-on-amazon-prime-day-this-lg-c4-series-tv-will-sell-like-hotcakes-2000508799",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/tv-lg-oled.jpg",
+            "publishedAt": "2024-10-08T12:10:27Z",
+            "content": "Today is the first day of Prime Day at Amazon, and you can enjoy a stunning deal on LG’s OLED evo C4 Series 4K TVs. The current deal offers a massive discount across multiple screen sizes and what’s … [+2939 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 75
+            },
+            "author": "Todd Feathers",
+            "title": "Parents Sue School That Gave Bad Grade to Student Who Used AI to Complete Assignment",
+            "description": "A Massachusetts couple claims that their son's high school attempted to derail his future by giving him detention and a bad grade on an assignment he wrote using generative AI.",
+            "url": "https://gizmodo.com/parents-sue-school-that-gave-bad-grade-to-student-who-used-ai-to-complete-assignment-2000512000",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/hingham-schools-ai-lawsuit.jpg",
+            "publishedAt": "2024-10-15T16:20:21Z",
+            "content": "An old and powerful force has entered the fraught debate over generative AI in schools: litigious parents angry that their child may not be accepted into a prestigious university.\r\nIn what appears to… [+3085 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 76
+            },
+            "author": "Gizmodo Deals",
+            "title": "In The Wake of Prime Day, Babbel Language Service hits record low price with a 76% discount.",
+            "description": "Following the excitement of Prime Day, Babbel has unveiled an incredible offer and slashes its lifetime subscription price by 76%.",
+            "url": "https://gizmodo.com/in-the-wake-of-prime-day-babbel-language-service-hits-record-low-price-with-a-76-discount-2000511027",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/08/babbel-app.jpg",
+            "publishedAt": "2024-10-12T12:15:51Z",
+            "content": "In an unexpected turn of events following the recent Prime Day event, language learning enthusiasts have been gifted with an extraordinary opportunity: the renowned digital language education platfor… [+3415 chars]"
+        },
+        {
+            "source": {
+                "name": "Gizmodo.com",
+                "article_id": 77
+            },
+            "author": "Gizmodo Deals",
+            "title": "Amazon Targets GoPro Hero 12 Prices with XL Discounts in a Surprise Deal for Prime Day",
+            "description": "For the first day of Prime Day, Amazon unleashes a crazy price on the GoPro HERO12 Black.",
+            "url": "https://gizmodo.com/amazon-targets-gopro-hero-12-prices-with-xl-discounts-in-a-surprise-deal-for-prime-day-2000508806",
+            "urlToImage": "https://gizmodo.com/app/uploads/2024/10/gopro-hero-12.jpg",
+            "publishedAt": "2024-10-08T12:35:27Z",
+            "content": "Amazon unleashed earlier this morning a terrific deal on the GoPro HERO12 Black which will make it one of the hottest items of the day. What’s even more exciting is that this offer is available to ev… [+3021 chars]"
         }
     ]
 }
