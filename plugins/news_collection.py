@@ -7,7 +7,6 @@ from data_transformation import transform
 file_path = 'Automated-News-Collection/news_data/news.json'
 
 # ! Data Transformation included
-
 def get_news_data():
     url = "https://newsapi.org/v2/top-headlines?country=us&apiKey=4b3891226ba640f2923d70515226148b"
     response = requests.get(url)
@@ -26,5 +25,3 @@ def get_news_data():
         print(f"News articles saved to news file.")
     else:
         print(f"Failed to fetch news: {response.status_code}")
-
-get_news_data()
