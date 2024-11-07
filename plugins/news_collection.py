@@ -26,3 +26,6 @@ def get_news_data():
         print(f"News articles saved to news file.")
     else:
         print(f"Failed to fetch news: {response.status_code}")
+
+get_news_data()
+
