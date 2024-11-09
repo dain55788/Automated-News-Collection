@@ -27,5 +27,5 @@ def get_news_data():
     else:
         print(f"Failed to fetch news: {response.status_code}")
 
-get_news_data()
+# get_news_data()
 

@@ -1,9 +1,8 @@
 from airflow.models import DAG
 from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
-import pendulum
 from plugins.news_collection import get_news_data
-from plugins.data_transformation import transform_news
+
 # DATA EXTRACTION PHASE
 # DAG arguments:
 default_args = {
@@ -35,12 +34,5 @@ collect_news = PythonOperator(
     dag = dainy_dag
 )
 
-# Data Transformation
-news_transformation = PythonOperator(
-    task_id='news_transformation',
-    python_callable = transform_news,
-    dag=dainy_dag
-)
-
 # Task Dependencies
-collect_news >> news_transformation
+collect_news

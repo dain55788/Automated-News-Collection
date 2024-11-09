@@ -1,12 +1,12 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-from selenium import webdriver
 
 # DATA TRANSFORMATION PHASE
 # check if the articles are removed or not
 def is_valid_article(article):
-    return (article.get('title') != '[Removed]' and article['source']['name'] != "Yahoo Entertainment")
+    return (article.get('title') != '[Removed]' and article['source']['name'] != "Yahoo Entertainment" 
+        and article['source']['name'] != "BBC News" and article['source']['name'] != "ABC News")
 
 categories_list = ['technology', 'sports', 'entertainment', 'politic', 'business', 'health']
 news_file_path = f'Automated-News-Collection/news_data/news.json'

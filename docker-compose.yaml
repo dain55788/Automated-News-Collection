@@ -8,6 +8,7 @@ x-airflow-common:
   image: airflow-image
   extra_hosts:
     - "host.docker.internal:host-gateway"
+  env_file: .env
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: CeleryExecutor
@@ -33,6 +34,7 @@ x-airflow-common:
   volumes:
     - ./dags:/opt/airflow/dags
     - ./plugins:/opt/airflow/plugins
+    # - ./logs:/opt/airflow/logs mount log ra window để trên airflow webserver xem đc log của task
     - ./news_data:/opt/airflow/Automated-News-Collection/news_data
   user: "${AIRFLOW_UID:-50000}:${AIRFLOW_GID:-50000}"
   depends_on:
