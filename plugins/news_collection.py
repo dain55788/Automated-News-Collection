@@ -28,4 +28,3 @@ def get_news_data():
         print(f"Failed to fetch news: {response.status_code}")
 
 # get_news_data()
-

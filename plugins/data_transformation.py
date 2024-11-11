@@ -36,18 +36,18 @@ def transform(file_path):
     # Filter out invalid articles which are removed
     filtered_articles = [article for article in data['articles'] if is_valid_article(article)]
 
-    # Index the article IDs
-    article_id = 1
     for article in filtered_articles:
         if "id" in article["source"]:
             del article["source"]["id"]
-        article["source"]["article_id"] = article_id
         article_content = fetch_full_content(article['url'])
         article["content"] = article_content if article_content else "Content could not be fetched."
-        article_id += 1
-        
-    data['articles'] = filtered_articles
 
+        if article_content:
+            article["content"] = article_content
+        else:
+            filtered_articles.remove(article)
+    
+    data['articles'] = filtered_articles
 
     with open(file_path, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)

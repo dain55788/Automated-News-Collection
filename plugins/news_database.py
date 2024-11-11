@@ -15,43 +15,50 @@ def connect_to_database():
         print(f"Error: {e}")
         return None
 
-def insert_article(connection, article):
+def insert_article(connection, article, category):
     cursor = connection.cursor()
 
     cursor.execute("""
-        INSERT INTO articles (article_id, source_name, author, title, description, url, urlToImage, publishedAt, content)
+        INSERT INTO articles (source_name, author, title, description, url, urlToImage, publishedAt, content, category)
         VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
-        ON DUPLICATE KEY UPDATE
-            source_name=VALUES(source_name),
-            author=VALUES(author),
-            title=VALUES(title),
-            description=VALUES(description),
-            url=VALUES(url),
-            urlToImage=VALUES(urlToImage),
-            publishedAt=VALUES(publishedAt),
-            content=VALUES(content)
-    """, (
-        article["source"]["article_id"],
+        """, (
         article["source"]["name"],
-        article["author"],
-        article["title"],
-        article["description"], 
-        article["url"],
-        article["urlToImage"],
-        article["publishedAt"],
-        article["content"]
+        article.get("author"),
+        article.get("title"),
+        article.get("description"), 
+        article.get("url"),
+        article.get("urlToImage"),
+        article.get("publishedAt"),
+        article.get("content"),
+        category
     ))
     connection.commit()
 
-def main():
-    with open('Automated-News-Collection/news_data/news.json', encoding='utf-8') as f:
+def load_articles(file_path, category):
+    with open(file_path, encoding='utf-8') as f:
         articles_data = json.load(f)["articles"]
 
     connection = connect_to_database()
     if connection:
         for article in articles_data:
-            insert_article(connection, article)
+            insert_article(connection, article, category)
+            
         connection.close()
+
+def main():
+    category_files = {
+        "Automated-News-Collection/news_data/news.json": "top_news",
+        "Automated-News-Collection/news_data/technology_news.json": "technology",
+        "Automated-News-Collection/news_data/entertainment_news.json" : "entertainment",
+        "Automated-News-Collection/news_data/business_news.json": "business",
+        "Automated-News-Collection/news_data/sports_news.json": "sports",
+        "Automated-News-Collection/news_data/politic_news.json" : "politic",
+        "Automated-News-Collection/news_data/health_news.json" : "health"
+    }
+
+    for file_name, category in category_files.items():
+        print(f"Processing {file_name} as {category}")
+        load_articles(file_name, category)
 
 if __name__ == "__main__":
     main()
