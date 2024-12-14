@@ -11,7 +11,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 
 def get_other_news_categories(category):
     api_key = os.getenv("API_KEY")
-    # S dung logging hoac print de log tien do code chay
+    # Su dung logging hoac print de log tien do code chay
     logger.debug(f"Ingest data {category}")
     start_time = time.time()
     if category == 'politic':
@@ -26,10 +26,8 @@ def get_other_news_categories(category):
     print("Start execution")
 
     if response.status_code == 200:
-    # Parse the response JSON
         news = response.json()
         
-        # Save the data to a JSON file
         with open(file_path, 'w', encoding="utf-8") as f:
             json.dump(news, f, ensure_ascii=False, indent=4)
         

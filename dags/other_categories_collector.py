@@ -43,7 +43,7 @@ with DAG(
     'other_categories_news_collector',
     description='Collect weekly news of other news categories (sport, technology, health, politic, entertainmnet, ...)',
     default_args=default_args,
-    schedule_interval='@weekly', # weekly schedule according to UTC timezone
+    schedule_interval='@once', # weekly schedule according to UTC timezone
     tags=['other_news_categories_collection'],
     catchup=False,
 ) as other_categories_dag:

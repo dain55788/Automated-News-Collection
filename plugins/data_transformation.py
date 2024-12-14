@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # DATA TRANSFORMATION PHASE
-# check if the articles are removed or not
+# check if the articles are removed or not, not from bbc, abc and yahoo
 def is_valid_article(article):
     return (article.get('title') != '[Removed]' and article['source']['name'] != "Yahoo Entertainment" 
         and article['source']['name'] != "BBC News" and article['source']['name'] != "ABC News")

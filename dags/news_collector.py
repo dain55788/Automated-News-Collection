@@ -22,7 +22,7 @@ dainy_dag = DAG(
     'simple_news_collector',
     description='Automatically collect news from NewsAPI and Transform',
     default_args=default_args,
-    schedule_interval='0 4 * * *', # daily 4AM UTC Timezone = 0AM NewYork Timezone
+    schedule_interval='@once', # daily 4AM UTC Timezone = 0AM NewYork Timezone
     tags=['news_collection'],
     catchup=False,
 )
